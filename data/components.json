@@ -1,0 +1,3911 @@
+{
+  "cpu": [
+    {
+      "id": "1",
+      "name": "Intel Celeron G6900",
+      "socket": "lga1700",
+      "price": "$77.98"
+    },
+    {
+      "id": "2",
+      "name": "Intel Core i3-12100",
+      "socket": "lga1700",
+      "price": "$114.99"
+    },
+    {
+      "id": "3",
+      "name": "Intel Core i3-12100F",
+      "socket": "lga1700",
+      "price": "$89.99"
+    },
+    {
+      "id": "4",
+      "name": "Intel Core i3-13100",
+      "socket": "lga1700",
+      "price": "$99.99"
+    },
+    {
+      "id": "5",
+      "name": "Intel Core i3-13100F",
+      "socket": "lga1700",
+      "price": "$110.99"
+    },
+    {
+      "id": "6",
+      "name": "Intel Core i5-12400",
+      "socket": "lga1700",
+      "price": "$174.99"
+    },
+    {
+      "id": "7",
+      "name": "Intel Core i5-12400F",
+      "socket": "lga1700",
+      "price": "$149.99"
+    },
+    {
+      "id": "8",
+      "name": "Intel Core i5-12500",
+      "socket": "lga1700",
+      "price": "$232.99"
+    },
+    {
+      "id": "9",
+      "name": "Intel Core i5-12600",
+      "socket": "lga1700",
+      "price": "$258.00"
+    },
+    {
+      "id": "10",
+      "name": "Intel Core i5-12600K",
+      "socket": "lga1700",
+      "price": "$226.87"
+    },
+    {
+      "id": "11",
+      "name": "Intel Core i5-12600KF",
+      "socket": "lga1700",
+      "price": "$219.94"
+    },
+    {
+      "id": "12",
+      "name": "Intel Core i5-13400",
+      "socket": "lga1700",
+      "price": "$199.99"
+    },
+    {
+      "id": "13",
+      "name": "Intel Core i5-13400F",
+      "socket": "lga1700",
+      "price": "$164.99"
+    },
+    {
+      "id": "14",
+      "name": "Intel Core i5-13500",
+      "socket": "lga1700",
+      "price": "$209.99"
+    },
+    {
+      "id": "15",
+      "name": "Intel Core i5-13600",
+      "socket": "lga1700",
+      "price": "$239.99"
+    },
+    {
+      "id": "16",
+      "name": "Intel Core i5-13600K",
+      "socket": "lga1700",
+      "price": "$309.99"
+    },
+    {
+      "id": "17",
+      "name": "Intel Core i5-13600KF",
+      "socket": "lga1700",
+      "price": "$259.99"
+    },
+    {
+      "id": "18",
+      "name": "Intel Core i7-12700",
+      "socket": "lga1700",
+      "price": "$325.86"
+    },
+    {
+      "id": "19",
+      "name": "Intel Core i7-12700F",
+      "socket": "lga1700",
+      "price": "$284.99"
+    },
+    {
+      "id": "20",
+      "name": "Intel Core i7-12700KF",
+      "socket": "lga1700",
+      "price": "$278.00"
+    },
+    {
+      "id": "21",
+      "name": "Intel Core i7-13700",
+      "socket": "lga1700",
+      "price": "$349.99"
+    },
+    {
+      "id": "22",
+      "name": "Intel Core i7-13700F",
+      "socket": "lga1700",
+      "price": "$329.99"
+    },
+    {
+      "id": "23",
+      "name": "Intel Core i7-13700K",
+      "socket": "lga1700",
+      "price": "$409.99"
+    },
+    {
+      "id": "24",
+      "name": "Intel Core i7-13700KF",
+      "socket": "lga1700",
+      "price": "$390.98"
+    },
+    {
+      "id": "25",
+      "name": "Intel Core i9-12900",
+      "socket": "lga1700",
+      "price": "$479.99"
+    },
+    {
+      "id": "26",
+      "name": "Intel Core i9-12900F",
+      "socket": "lga1700",
+      "price": "$449.99"
+    },
+    {
+      "id": "27",
+      "name": "Intel Core i9-12900K",
+      "socket": "lga1700",
+      "price": "$399.00"
+    },
+    {
+      "id": "28",
+      "name": "Intel Core i9-12900KF",
+      "socket": "lga1700",
+      "price": "$391.00"
+    },
+    {
+      "id": "29",
+      "name": "Intel Core i9-12900KS",
+      "socket": "lga1700",
+      "price": "$457.77"
+    },
+    {
+      "id": "30",
+      "name": "Intel Core i9-13900",
+      "socket": "lga1700",
+      "price": "$549.99"
+    },
+    {
+      "id": "31",
+      "name": "Intel Core i9-13900F",
+      "socket": "lga1700",
+      "price": "$529.99"
+    },
+    {
+      "id": "32",
+      "name": "Intel Core i9-13900K",
+      "socket": "lga1700",
+      "price": "$565.99"
+    },
+    {
+      "id": "33",
+      "name": "Intel Core i9-13900KF",
+      "socket": "lga1700",
+      "price": "$529.99"
+    },
+    {
+      "id": "34",
+      "name": "Intel Core i9-13900KS",
+      "socket": "lga1700",
+      "price": "$1187.50"
+    },
+    {
+      "id": "35",
+      "name": "AMD Ryzen 3 3100",
+      "socket": "AM4",
+      "price": "$85.99"
+    },
+    {
+      "id": "36",
+      "name": "AMD Ryzen 3 3300X",
+      "socket": "AM4",
+      "price": "$169.00"
+    },
+    {
+      "id": "37",
+      "name": "AMD Ryzen 3 4100",
+      "socket": "AM4",
+      "price": "$64.99"
+    },
+    {
+      "id": "38",
+      "name": "AMD Ryzen 5 3600",
+      "socket": "AM4",
+      "price": "$93.99"
+    },
+    {
+      "id": "39",
+      "name": "AMD Ryzen 5 3600X",
+      "socket": "AM4",
+      "price": "$230.00"
+    },
+    {
+      "id": "40",
+      "name": "AMD Ryzen 5 3600XT",
+      "socket": "AM4",
+      "price": "$368.00"
+    },
+    {
+      "id": "41",
+      "name": "AMD Ryzen 5 4500",
+      "socket": "AM4",
+      "price": "$75.99"
+    },
+    {
+      "id": "42",
+      "name": "AMD Ryzen 5 4600G",
+      "socket": "AM4",
+      "price": "$100.98"
+    },
+    {
+      "id": "43",
+      "name": "AMD Ryzen 5 5500",
+      "socket": "AM4",
+      "price": "$88.99"
+    },
+    {
+      "id": "44",
+      "name": "AMD Ryzen 5 5600",
+      "socket": "AM4",
+      "price": "$130.41"
+    },
+    {
+      "id": "45",
+      "name": "AMD Ryzen 5 5600G",
+      "socket": "AM4",
+      "price": "$123.99"
+    },
+    {
+      "id": "46",
+      "name": "AMD Ryzen 5 5600X",
+      "socket": "AM4",
+      "price": "$148.00"
+    },
+    {
+      "id": "47",
+      "name": "AMD Ryzen 7 3700X",
+      "socket": "AM4",
+      "price": "$272.99"
+    },
+    {
+      "id": "48",
+      "name": "AMD Ryzen 7 3800X",
+      "socket": "AM4",
+      "price": "$279.99"
+    },
+    {
+      "id": "49",
+      "name": "AMD Ryzen 7 3800XT",
+      "socket": "AM4",
+      "price": "$407.95"
+    },
+    {
+      "id": "50",
+      "name": "AMD Ryzen 7 5700G",
+      "socket": "AM4",
+      "price": "$169.29"
+    },
+    {
+      "id": "51",
+      "name": "AMD Ryzen 7 5700X",
+      "socket": "AM4",
+      "price": "$181.99"
+    },
+    {
+      "id": "52",
+      "name": "AMD Ryzen 7 5800X",
+      "socket": "AM4",
+      "price": "$237.80"
+    },
+    {
+      "id": "53",
+      "name": "AMD Ryzen 7 5800X3D",
+      "socket": "AM4",
+      "price": "$318.02"
+    },
+    {
+      "id": "54",
+      "name": "AMD Ryzen 9 3900X",
+      "socket": "AM4",
+      "price": "$385.00"
+    },
+    {
+      "id": "55",
+      "name": "AMD Ryzen 9 3900XT",
+      "socket": "AM4",
+      "price": "$420.00"
+    },
+    {
+      "id": "56",
+      "name": "AMD Ryzen 9 3950X",
+      "socket": "AM4",
+      "price": "$575.00"
+    },
+    {
+      "id": "57",
+      "name": "AMD Ryzen 9 5900X",
+      "socket": "AM4",
+      "price": "$313.99"
+    },
+    {
+      "id": "58",
+      "name": "AMD Ryzen 9 5950X",
+      "socket": "AM4",
+      "price": "$469.00"
+    },
+    {
+      "id": "59",
+      "name": "AMD Ryzen 5 7600",
+      "socket": "AM5",
+      "price": "$214.99"
+    },
+    {
+      "id": "60",
+      "name": "AMD Ryzen 5 7600X",
+      "socket": "AM5",
+      "price": "$241.12"
+    },
+    {
+      "id": "61",
+      "name": "AMD Ryzen 7 7700",
+      "socket": "AM5",
+      "price": "$319.79"
+    },
+    {
+      "id": "62",
+      "name": "AMD Ryzen 7 7700X",
+      "socket": "AM5",
+      "price": "$330.81"
+    },
+    {
+      "id": "63",
+      "name": "AMD Ryzen 7 7800X3D",
+      "socket": "AM5",
+      "price": "$449.00"
+    },
+    {
+      "id": "64",
+      "name": "AMD Ryzen 9 7900",
+      "socket": "AM5",
+      "price": "$419.99"
+    },
+    {
+      "id": "65",
+      "name": "AMD Ryzen 9 7900X",
+      "socket": "AM5",
+      "price": "$409.84"
+    },
+    {
+      "id": "66",
+      "name": "AMD Ryzen 9 7900X3D",
+      "socket": "AM5",
+      "price": "$576.30"
+    },
+    {
+      "id": "67",
+      "name": "AMD Ryzen 9 7950X",
+      "socket": "AM5",
+      "price": "$550.00"
+    },
+    {
+      "id": "68",
+      "name": "AMD Ryzen 9 7950X3D",
+      "socket": "AM5",
+      "price": "$699.00"
+    }
+  ],
+  "cpuCooler": [
+    {
+      "id": "1",
+      "name": "ARCTIC Freezer 34 CO",
+      "price": "$44.31"
+    },
+    {
+      "id": "2",
+      "name": "ARCTIC Freezer 34 eSports DUO",
+      "price": "$46.95"
+    },
+    {
+      "id": "3",
+      "name": "ARCTIC Freezer i35 A-RGB",
+      "price": "$44.54"
+    },
+    {
+      "id": "4",
+      "name": "ARCTIC Liquid Freezer II 240",
+      "price": "$97.99"
+    },
+    {
+      "id": "5",
+      "name": "ARCTIC Liquid Freezer II 240 A-RGB",
+      "price": "$105.99"
+    },
+    {
+      "id": "6",
+      "name": "Asus ROG Strix LC 120",
+      "price": "$171.12"
+    },
+    {
+      "id": "7",
+      "name": "Asus ROG Strix LC 120 RGB",
+      "price": "$157.15"
+    },
+    {
+      "id": "8",
+      "name": "Asus ROG STRIX LC II ARGB",
+      "price": "$149.99"
+    },
+    {
+      "id": "9",
+      "name": "Asus TUF GAMING LC 240 ARGB",
+      "price": "$119.99"
+    },
+    {
+      "id": "10",
+      "name": "be quiet! Dark Rock 4",
+      "price": "$69.99"
+    },
+    {
+      "id": "11",
+      "name": "be quiet! Dark Rock Pro 4",
+      "price": "$89.90"
+    },
+    {
+      "id": "12",
+      "name": "be quiet! Dark Rock Slim",
+      "price": "$54.99"
+    },
+    {
+      "id": "13",
+      "name": "be quiet! Pure Loop 120",
+      "price": "$89.90"
+    },
+    {
+      "id": "14",
+      "name": "be quiet! Pure Loop 2 FX",
+      "price": "$154.90"
+    },
+    {
+      "id": "15",
+      "name": "be quiet! Pure Loop 240",
+      "price": "$94.90"
+    },
+    {
+      "id": "16",
+      "name": "be quiet! Pure Loop 280",
+      "price": "$104.90"
+    },
+    {
+      "id": "17",
+      "name": "be quiet! Pure Loop 360",
+      "price": "$124.90"
+    },
+    {
+      "id": "18",
+      "name": "be quiet! Pure Rock 2",
+      "price": "$39.90"
+    },
+    {
+      "id": "19",
+      "name": "be quiet! Pure Rock 2 Black",
+      "price": "$44.90"
+    },
+    {
+      "id": "20",
+      "name": "be quiet! Pure Rock 2 FX",
+      "price": "$52.90"
+    },
+    {
+      "id": "21",
+      "name": "be quiet! Shadow Rock 2",
+      "price": "$164.52"
+    },
+    {
+      "id": "22",
+      "name": "be quiet! Shadow Rock 3",
+      "price": "$49.90"
+    },
+    {
+      "id": "23",
+      "name": "be quiet! Shadow Rock LP",
+      "price": "$49.90"
+    },
+    {
+      "id": "24",
+      "name": "be quiet! Shadow Rock Slim",
+      "price": "$106.00"
+    },
+    {
+      "id": "25",
+      "name": "be quiet! Shadow Rock Slim 2",
+      "price": "$47.90"
+    },
+    {
+      "id": "26",
+      "name": "be quiet! Shadow Rock TF 2",
+      "price": "$69.98"
+    },
+    {
+      "id": "27",
+      "name": "Cooler Master Hyper 212 Black Edition",
+      "price": "$49.99"
+    },
+    {
+      "id": "28",
+      "name": "Cooler Master Hyper 212 LED",
+      "price": "$83.52"
+    },
+    {
+      "id": "29",
+      "name": "Cooler Master Hyper 212 LED Turbo (Red)",
+      "price": "$71.98"
+    },
+    {
+      "id": "30",
+      "name": "Cooler Master MasterAir MA612 Stealth ARGB",
+      "price": "$74.99"
+    },
+    {
+      "id": "31",
+      "name": "Cooler Master MasterAir MA620M",
+      "price": "$99.95"
+    },
+    {
+      "id": "32",
+      "name": "Cooler Master MASTERLIQUID ML120L RGB V2",
+      "price": "$74.32"
+    },
+    {
+      "id": "33",
+      "name": "Cooler Master MasterLiquid ML240 Illusion",
+      "price": "$131.66"
+    },
+    {
+      "id": "34",
+      "name": "Cooler Master MasterLiquid ML240L ARGB V2",
+      "price": "$106.00"
+    },
+    {
+      "id": "35",
+      "name": "Cooler Master MasterLiquid ML280 Mirror",
+      "price": "$152.28"
+    },
+    {
+      "id": "36",
+      "name": "Cooler Master MasterLiquid PL360 FLUX",
+      "price": "$175.55"
+    },
+    {
+      "id": "37",
+      "name": "Corsair H100x",
+      "price": "$99.99"
+    },
+    {
+      "id": "38",
+      "name": "Corsair H60 (2018)",
+      "price": "$79.99"
+    },
+    {
+      "id": "39",
+      "name": "Corsair iCUE H100i RGB ELITE",
+      "price": "$139.99"
+    },
+    {
+      "id": "40",
+      "name": "Corsair iCUE H115i RGB ELITE",
+      "price": "$159.99"
+    },
+    {
+      "id": "41",
+      "name": "MSI MAG CORELIQUID 240R V2 WHITE",
+      "price": "$119.99"
+    },
+    {
+      "id": "42",
+      "name": "MSI MAG CORELIQUID C280",
+      "price": "$178.60"
+    },
+    {
+      "id": "43",
+      "name": "MSI MAG CORELIQUID C360",
+      "price": "$129.99"
+    },
+    {
+      "id": "44",
+      "name": "MSI MAG CORELIQUID C240",
+      "price": "$79.99"
+    },
+    {
+      "id": "45",
+      "name": "Noctua NH-C14S",
+      "price": "$79.95"
+    },
+    {
+      "id": "46",
+      "name": "Noctua NH-D15",
+      "price": "$109.95"
+    },
+    {
+      "id": "47",
+      "name": "Noctua NH-D15 chromax.black",
+      "price": "$119.95"
+    },
+    {
+      "id": "48",
+      "name": "Noctua NH-D15S",
+      "price": "$99.95"
+    },
+    {
+      "id": "49",
+      "name": "Noctua NH-D15S chromax.black",
+      "price": "$109.95"
+    },
+    {
+      "id": "50",
+      "name": "Noctua NH-D9L",
+      "price": "$54.95"
+    },
+    {
+      "id": "51",
+      "name": "Noctua NH-L12 Ghost S1",
+      "price": "$54.93"
+    },
+    {
+      "id": "52",
+      "name": "Noctua NH-U12A",
+      "price": "$119.95"
+    },
+    {
+      "id": "53",
+      "name": "Noctua NH-U12A chromax.black",
+      "price": "$129.94"
+    },
+    {
+      "id": "54",
+      "name": "Noctua NH-U12S",
+      "price": "$72.95"
+    },
+    {
+      "id": "55",
+      "name": "Noctua NH-U12S chromax.black",
+      "price": "$89.95"
+    },
+    {
+      "id": "56",
+      "name": "Noctua NH-U14S",
+      "price": "$79.95"
+    },
+    {
+      "id": "57",
+      "name": "Noctua NH-U9S",
+      "price": "$59.95"
+    },
+    {
+      "id": "58",
+      "name": "Noctua NH-U9S chromax.black",
+      "price": "$69.95"
+    },
+    {
+      "id": "59",
+      "name": "NZXT Kraken 240 RGB",
+      "price": "$159.99"
+    },
+    {
+      "id": "60",
+      "name": "NZXT Kraken X53 RGB",
+      "price": "$164.99"
+    },
+    {
+      "id": "61",
+      "name": "NZXT Kraken X63",
+      "price": "$154.99"
+    }
+  ],
+  "motherboard": [
+    {
+      "id": "1",
+      "socket": "lga1700",
+      "name": "ASRock B660 Steel Legend",
+      "price": "$159.99"
+    },
+    {
+      "id": "2",
+      "socket": "lga1700",
+      "name": "ASRock B760M PG SONIC WIFI",
+      "price": "$189.99"
+    },
+    {
+      "id": "3",
+      "socket": "lga1700",
+      "name": "ASRock B760M Steel Legend WIFI",
+      "price": "$169.99"
+    },
+    {
+      "id": "4",
+      "socket": "lga1700",
+      "name": "ASRock Z690 PG Riptide",
+      "price": "$168.99"
+    },
+    {
+      "id": "5",
+      "socket": "lga1700",
+      "name": "ASRock Z690 Steel Legend",
+      "price": "$139.99"
+    },
+    {
+      "id": "6",
+      "socket": "lga1700",
+      "name": "ASRock Z790 PG LIGHTNING",
+      "price": "$179.99"
+    },
+    {
+      "id": "7",
+      "socket": "lga1700",
+      "name": "Asus PRIME B660-PLUS D4",
+      "price": "$178.04"
+    },
+    {
+      "id": "8",
+      "socket": "lga1700",
+      "name": "Asus PRIME B660M-A WIFI D4",
+      "price": "$162.13"
+    },
+    {
+      "id": "9",
+      "socket": "lga1700",
+      "name": "Asus PRIME Z690-A",
+      "price": "$234.99"
+    },
+    {
+      "id": "10",
+      "socket": "lga1700",
+      "name": "Asus PRIME Z690-P D4",
+      "price": "$199.99"
+    },
+    {
+      "id": "11",
+      "socket": "lga1700",
+      "name": "Asus PRIME Z690-P WIFI",
+      "price": "$219.99"
+    },
+    {
+      "id": "11",
+      "socket": "lga1700",
+      "name": "Asus PRIME Z690-P WIFI D4",
+      "price": "$239.99"
+    },
+    {
+      "id": "12",
+      "socket": "lga1700",
+      "name": "Asus ProArt B660-CREATOR D4",
+      "price": "$210.99"
+    },
+    {
+      "id": "13",
+      "socket": "lga1700",
+      "name": "Asus ProArt B760-CREATOR D4",
+      "price": "$220.99"
+    },
+    {
+      "id": "14",
+      "socket": "lga1700",
+      "name": "Asus ROG STRIX B660-I GAMING WIFI",
+      "price": "$233.61"
+    },
+    {
+      "id": "15",
+      "socket": "lga1700",
+      "name": "Asus ROG STRIX B760-I GAMING WIFI",
+      "price": "$218.11"
+    },
+    {
+      "id": "16",
+      "socket": "lga1700",
+      "name": "Asus ROG STRIX Z690-A GAMING WIFI D4",
+      "price": "$308.95"
+    },
+    {
+      "id": "17",
+      "socket": "lga1700",
+      "name": "Asus ROG STRIX Z690-E GAMING WIFI",
+      "price": "$299.99"
+    },
+    {
+      "id": "18",
+      "socket": "lga1700",
+      "name": "Asus ROG STRIX Z690-G GAMING WIFI",
+      "price": "$299.99"
+    },
+    {
+      "id": "19",
+      "socket": "lga1700",
+      "name": "Asus ROG STRIX Z690-I GAMING WIFI",
+      "price": "$343.35"
+    },
+    {
+      "id": "20",
+      "socket": "lga1700",
+      "name": "Asus ROG STRIX Z790-A GAMING WIFI",
+      "price": "$321.99"
+    },
+    {
+      "id": "21",
+      "socket": "lga1700",
+      "name": "Asus TUF GAMING B660-PLUS WIFI D4",
+      "price": "$230.14"
+    },
+    {
+      "id": "22",
+      "socket": "lga1700",
+      "name": "Asus TUF GAMING B660M-PLUS WIFI D4",
+      "price": "$179.99"
+    },
+    {
+      "id": "23",
+      "socket": "lga1700",
+      "name": "Asus TUF GAMING B760M-PLUS WIFI D4",
+      "price": "$189.99"
+    },
+    {
+      "id": "24",
+      "socket": "lga1700",
+      "name": "Asus TUF GAMING Z690-PLUS D4",
+      "price": "$298.20"
+    },
+    {
+      "id": "25",
+      "socket": "lga1700",
+      "name": "Asus TUF GAMING Z690-PLUS WIFI",
+      "price": "$242.20"
+    },
+    {
+      "id": "26",
+      "socket": "lga1700",
+      "name": "Asus TUF GAMING Z690-PLUS WIFI D4",
+      "price": "$229.00"
+    },
+    {
+      "id": "27",
+      "socket": "lga1700",
+      "name": "Asus TUF GAMING Z790-PLUS WIFI",
+      "price": "$259.99"
+    },
+    {
+      "id": "28",
+      "socket": "lga1700",
+      "name": "Asus TUF GAMING Z790-PLUS WIFI D4",
+      "price": "$240.99"
+    },
+    {
+      "id": "29",
+      "socket": "lga1700",
+      "name": "Gigabyte B600 DS3H AX DDR4",
+      "price": "$167.95"
+    },
+    {
+      "id": "30",
+      "socket": "lga1700",
+      "name": "Gigabyte B600 GAMING X AX DDR4",
+      "price": "$349.00"
+    },
+    {
+      "id": "31",
+      "socket": "lga1700",
+      "name": "Gigabyte B600 GAMING X DDR4",
+      "price": "$336.59"
+    },
+    {
+      "id": "32",
+      "socket": "lga1700",
+      "name": "Gigabyte B600M DS3H DDR4",
+      "price": "$144.25"
+    },
+    {
+      "id": "33",
+      "socket": "lga1700",
+      "name": "Gigabyte Z690 AERO G",
+      "price": "$259.99"
+    },
+    {
+      "id": "34",
+      "socket": "lga1700",
+      "name": "Gigabyte Z690 AORUS ELITE DDR4",
+      "price": "$269.99"
+    },
+    {
+      "id": "35",
+      "socket": "lga1700",
+      "name": "Gigabyte Z690 AORUS ULTRA",
+      "price": "$289.99"
+    },
+    {
+      "id": "36",
+      "socket": "lga1700",
+      "name": "Gigabyte Z690 UD DDR4",
+      "price": "$207.51"
+    },
+    {
+      "id": "37",
+      "socket": "lga1700",
+      "name": "Gigabyte Z790 AORUS ELITE AX",
+      "price": "$254.99"
+    },
+    {
+      "id": "38",
+      "socket": "lga1700",
+      "name": "Gigabyte Z790 GAMING X AX",
+      "price": "$234.99"
+    },
+    {
+      "id": "39",
+      "socket": "lga1700",
+      "name": "MSI MAG B600 TOMAHAWK WIFI DDR4",
+      "price": "$189.99"
+    },
+    {
+      "id": "40",
+      "socket": "lga1700",
+      "name": "MSI MAG B600M MORTAR DDR4",
+      "price": "$227.21"
+    },
+    {
+      "id": "41",
+      "socket": "lga1700",
+      "name": "MSI MAG Z690 TOMAHAWK WIFI",
+      "price": "$239.99"
+    },
+    {
+      "id": "42",
+      "socket": "lga1700",
+      "name": "MSI MAG Z690 TOMAHAWK WIFI DDR4",
+      "price": "$239.99"
+    },
+    {
+      "id": "43",
+      "socket": "lga1700",
+      "name": "MSI MAG Z790 TOMAHAWK WIFI",
+      "price": "$259.99"
+    },
+    {
+      "id": "44",
+      "socket": "lga1700",
+      "name": "MSI MEG Z690 ACE",
+      "price": "$403.31"
+    },
+    {
+      "id": "45",
+      "socket": "lga1700",
+      "name": "MSI MPG Z690 CARBON WIFI",
+      "price": "$304.99"
+    },
+    {
+      "id": "46",
+      "socket": "lga1700",
+      "name": "MSI MPG Z690 EDGE WIFI",
+      "price": "$213.00"
+    },
+    {
+      "id": "47",
+      "socket": "lga1700",
+      "name": "MSI MPG Z690 EDGE WIFI DDR4",
+      "price": "$269.99"
+    },
+    {
+      "id": "48",
+      "socket": "lga1700",
+      "name": "MSI MPG Z690 FORCE WIFI",
+      "price": "$269.99"
+    },
+    {
+      "id": "49",
+      "socket": "lga1700",
+      "name": "MSI MPG Z790 EDGE WIFI",
+      "price": "$346.48"
+    },
+    {
+      "id": "50",
+      "socket": "lga1700",
+      "name": "MSI MPG Z790 EDGE WIFI DDR4",
+      "price": "$324.99"
+    },
+    {
+      "id": "51",
+      "socket": "lga1700",
+      "name": "MSI MPG Z790I EDGE WIFI",
+      "price": "$340.99"
+    },
+    {
+      "id": "52",
+      "socket": "lga1700",
+      "name": "MSI PRO B660-A DDR4",
+      "price": "$149.99"
+    },
+    {
+      "id": "53",
+      "socket": "lga1700",
+      "name": "MSI PRO B660M-A WIFI DDR4",
+      "price": "$149.99"
+    },
+    {
+      "id": "54",
+      "socket": "lga1700",
+      "name": "MSI PRO B760-P WIFI DDR4",
+      "price": "$159.94"
+    },
+    {
+      "id": "55",
+      "socket": "lga1700",
+      "name": "MSI PRO B760M-A WIFI DDR4",
+      "price": "$169.99"
+    },
+    {
+      "id": "56",
+      "socket": "lga1700",
+      "name": "MSI PRO Z690-A",
+      "price": "$365.00"
+    },
+    {
+      "id": "57",
+      "socket": "lga1700",
+      "name": "MSI PRO Z690-A WIFI DDR4",
+      "price": "$224.83"
+    },
+    {
+      "id": "58",
+      "socket": "lga1700",
+      "name": "MSI PRO Z790-A WIFI",
+      "price": "$239.99"
+    },
+    {
+      "id": "59",
+      "socket": "lga1700",
+      "name": "MSI PRO Z790-P WIFI",
+      "price": "$199.99"
+    },
+    {
+      "id": "60",
+      "socket": "lga1700",
+      "name": "MSI PRO Z790-P WIFI DDR4",
+      "price": "$179.99"
+    },
+    {
+      "id": "61",
+      "socket": "lga1700",
+      "name": "NZXT N5 Z690",
+      "price": "$239.99"
+    },
+    {
+      "id": "62",
+      "socket": "lga1700",
+      "name": "NZXT N7 Z790",
+      "price": "$299.99"
+    },
+    {
+      "id": "63",
+      "socket": "lga1700",
+      "name": "NZXT N7-Z69XT-B1",
+      "price": "$299.73"
+    },
+    {
+      "id": "64",
+      "socket": "lga1700",
+      "name": "NZXT N7-Z69XT-W1",
+      "price": "$360.11"
+    },
+    {
+      "id": "65",
+      "socket": "AM4",
+      "name": "ASRock B450M Pro4",
+      "price": "$159.00"
+    },
+    {
+      "id": "66",
+      "socket": "AM4",
+      "name": "ASRock B550 PG Velocita",
+      "price": "$139.99"
+    },
+    {
+      "id": "67",
+      "socket": "AM4",
+      "name": "ASRock B550 Steel Legend",
+      "price": "$149.99"
+    },
+    {
+      "id": "68",
+      "socket": "AM4",
+      "name": "ASRock B550 Taichi Razer Edition",
+      "price": "$199.99"
+    },
+    {
+      "id": "69",
+      "socket": "AM4",
+      "name": "ASRock B550M Pro4",
+      "price": "$140.31"
+    },
+    {
+      "id": "70",
+      "socket": "AM4",
+      "name": "ASRock X570 PG Velocita",
+      "price": "$199.99"
+    },
+    {
+      "id": "71",
+      "socket": "AM4",
+      "name": "ASRock X570 Taichi Razer Edition",
+      "price": "$234.99"
+    },
+    {
+      "id": "72",
+      "socket": "AM4",
+      "name": "ASRock ProArt B550-CREATOR",
+      "price": "$226.99"
+    },
+    {
+      "id": "73",
+      "socket": "AM4",
+      "name": "Asus ROG Crosshair VIII Dark Hero",
+      "price": "$395.00"
+    },
+    {
+      "id": "74",
+      "socket": "AM4",
+      "name": "Asus ROG Crosshair VIII Hero",
+      "price": "$370.99"
+    },
+    {
+      "id": "75",
+      "socket": "AM4",
+      "name": "Asus ROG Crosshair VIII Hero (WIFI)",
+      "price": "$384.99"
+    },
+    {
+      "id": "76",
+      "socket": "AM4",
+      "name": "Asus ROG Crosshair VIII Impact",
+      "price": "$429.99"
+    },
+    {
+      "id": "77",
+      "socket": "AM4",
+      "name": "Asus ROG STRIX B450-F GAMING",
+      "price": "$279.00"
+    },
+    {
+      "id": "78",
+      "socket": "AM4",
+      "name": "Asus ROG STRIX B550-A GAMING",
+      "price": "$164.99"
+    },
+    {
+      "id": "79",
+      "socket": "AM4",
+      "name": "Asus ROG STRIX B550-E GAMING",
+      "price": "$446.99"
+    },
+    {
+      "id": "80",
+      "socket": "AM4",
+      "name": "Asus ROG STRIX B550-F GAMING",
+      "price": "$188.81"
+    },
+    {
+      "id": "81",
+      "socket": "AM4",
+      "name": "Asus ROG STRIX B550-F GAMING (WIFI)",
+      "price": "$360.00"
+    },
+    {
+      "id": "82",
+      "socket": "AM4",
+      "name": "Asus ROG STRIX B550-F GAMING WIFI II",
+      "price": "$194.67"
+    },
+    {
+      "id": "83",
+      "socket": "AM4",
+      "name": "Asus ROG STRIX X470-I GAMING",
+      "price": "$267.08"
+    },
+    {
+      "id": "84",
+      "socket": "AM4",
+      "name": "Asus ROG STRIX X570-F GAMING",
+      "price": "$448.99"
+    },
+    {
+      "id": "85",
+      "socket": "AM4",
+      "name": "Asus TUF GAMING B550-PLUS",
+      "price": "$172.55"
+    },
+    {
+      "id": "86",
+      "socket": "AM4",
+      "name": "Asus TUF GAMING B550-PLUS WIFI II",
+      "price": "$162.00"
+    },
+    {
+      "id": "87",
+      "socket": "AM4",
+      "name": "Asus TUF GAMING B550M-PLUS",
+      "price": "$201.86"
+    },
+    {
+      "id": "88",
+      "socket": "AM4",
+      "name": "Asus TUF GAMING B550M-PLUS WIFI II",
+      "price": "$159.99"
+    },
+    {
+      "id": "89",
+      "socket": "AM4",
+      "name": "Asus TUF GAMING X570-PLUS (WIFI)",
+      "price": "$209.99"
+    },
+    {
+      "id": "90",
+      "socket": "AM4",
+      "name": "Asus TUF GAMING X570-PRO (WIFI)",
+      "price": "$408.26"
+    },
+    {
+      "id": "91",
+      "socket": "AM4",
+      "name": "Asus TUF GAMING X570-PRO WIFI II",
+      "price": "$364.23"
+    },
+    {
+      "id": "92",
+      "socket": "AM4",
+      "name": "Gigabyte B550 AORUS ELITE",
+      "price": "$185.73"
+    },
+    {
+      "id": "93",
+      "socket": "AM4",
+      "name": "Gigabyte B550 AORUS ELITE AX",
+      "price": "$214.31"
+    },
+    {
+      "id": "94",
+      "socket": "AM4",
+      "name": "Gigabyte B550 AORUS ELITE AX V2",
+      "price": "$159.99"
+    },
+    {
+      "id": "95",
+      "socket": "AM4",
+      "name": "Gigabyte B550 AORUS ELITE V2",
+      "price": "$168.55"
+    },
+    {
+      "id": "96",
+      "socket": "AM4",
+      "name": "Gigabyte B550 AORUS PRO AC",
+      "price": "$306.49"
+    },
+    {
+      "id": "97",
+      "socket": "AM4",
+      "name": "Gigabyte B550 VISION D-P",
+      "price": "$399.00"
+    },
+    {
+      "id": "98",
+      "socket": "AM4",
+      "name": "Gigabyte B550M AORUS PRO-P",
+      "price": "$221.42"
+    },
+    {
+      "id": "99",
+      "socket": "AM4",
+      "name": "Gigabyte X570 AORUS PRO",
+      "price": "$436.99"
+    },
+    {
+      "id": "100",
+      "socket": "AM4",
+      "name": "Gigabyte X570S AERO G",
+      "price": "$279.99"
+    },
+    {
+      "id": "101",
+      "socket": "AM4",
+      "name": "Gigabyte X570S AORUS ELITE AX",
+      "price": "$194.99"
+    },
+    {
+      "id": "102",
+      "socket": "AM4",
+      "name": "Gigabyte X570S AORUS MASTER",
+      "price": "$299.99"
+    },
+    {
+      "id": "103",
+      "socket": "AM4",
+      "name": "Gigabyte X570S AORUS MASTER",
+      "price": "$299.99"
+    },
+    {
+      "id": "104",
+      "socket": "AM4",
+      "name": "MSI B450I GAMING PLUS MAX WIFI",
+      "price": "$134.99"
+    },
+    {
+      "id": "105",
+      "socket": "AM4",
+      "name": "MSI B550-A PRO",
+      "price": "$139.99"
+    },
+    {
+      "id": "106",
+      "socket": "AM4",
+      "name": "MSI MAG B550 TOMAHAWK",
+      "price": "$169.99"
+    },
+    {
+      "id": "107",
+      "socket": "AM4",
+      "name": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "price": "$199.99"
+    },
+    {
+      "id": "108",
+      "socket": "AM4",
+      "name": "MSI MAG X570S TOMAHAWK MAX WIFI",
+      "price": "$280.32"
+    },
+    {
+      "id": "109",
+      "socket": "AM4",
+      "name": "MSI MAG X570S TORPEDO MAX",
+      "price": "$250.46"
+    },
+    {
+      "id": "110",
+      "socket": "AM4",
+      "name": "MSI MEG B550 UNIFY",
+      "price": "$289.99"
+    },
+    {
+      "id": "111",
+      "socket": "AM4",
+      "name": "MSI MEG X570 UNIFY",
+      "price": "$245.99"
+    },
+    {
+      "id": "112",
+      "socket": "AM4",
+      "name": "MSI MEG X570S UNIFY-X MAX",
+      "price": "$288.02"
+    },
+    {
+      "id": "113",
+      "socket": "AM4",
+      "name": "MSI MPG B550 GAMING CARBON WIFI",
+      "price": "$306.92"
+    },
+    {
+      "id": "114",
+      "socket": "AM4",
+      "name": "MSI MPG B550 GAMING PLUS",
+      "price": "$139.99"
+    },
+    {
+      "id": "115",
+      "socket": "AM4",
+      "name": "MSI MPG X570 GAMING PRO CARBON WIFI",
+      "price": "$410.77"
+    },
+    {
+      "id": "116",
+      "socket": "AM4",
+      "name": "MSI MPG X570S EDGE MAX WIFI",
+      "price": "$229.99"
+    },
+    {
+      "id": "117",
+      "socket": "AM4",
+      "name": "MSI MPG X470 GAMING PLUS MAX",
+      "price": "$299.99"
+    },
+    {
+      "id": "118",
+      "socket": "AM4",
+      "name": "NZXT N7 B550",
+      "price": "$249.99"
+    },
+    {
+      "id": "119",
+      "socket": "AM5",
+      "name": "ASRock B650 PRO RS",
+      "price": "$205.73"
+    },
+    {
+      "id": "120",
+      "socket": "AM5",
+      "name": "ASRock B650E PG RIPTIDE WIFI",
+      "price": "$214.99"
+    },
+    {
+      "id": "121",
+      "socket": "AM5",
+      "name": "ASRock B650M PG RIPTIDE WIFI",
+      "price": "$189.99"
+    },
+    {
+      "id": "122",
+      "socket": "AM5",
+      "name": "Asus PRIME X670E-PRO WIFI",
+      "price": "$314.99"
+    },
+    {
+      "id": "123",
+      "socket": "AM5",
+      "name": "Asus ProArt X670E-CREATOR WIFI",
+      "price": "$439.99"
+    },
+    {
+      "id": "124",
+      "socket": "AM5",
+      "name": "Asus ROG STRIX B650-A GAMING WIFI",
+      "price": "$274.99"
+    },
+    {
+      "id": "125",
+      "socket": "AM5",
+      "name": "Asus ROG STRIX B650E-F GAMING WIFI",
+      "price": "$276.47"
+    },
+    {
+      "id": "126",
+      "socket": "AM5",
+      "name": "Asus ROG STRIX X670E-F GAMING WIFI",
+      "price": "$399.99"
+    },
+    {
+      "id": "127",
+      "socket": "AM5",
+      "name": "Gigabyte B650 AORUS ELITE AX",
+      "price": "$219.99"
+    },
+    {
+      "id": "128",
+      "socket": "AM5",
+      "name": "Gigabyte B650 GAMING X AX",
+      "price": "$189.99"
+    },
+    {
+      "id": "129",
+      "socket": "AM5",
+      "name": "Gigabyte B650I AORUS ULTRA",
+      "price": "$259.99"
+    },
+    {
+      "id": "130",
+      "socket": "AM5",
+      "name": "Gigabyte B650M AORUS ELITE AX",
+      "price": "$189.99"
+    },
+    {
+      "id": "131",
+      "socket": "AM5",
+      "name": "MSI MAG B650 TOMAHAWK WIFI",
+      "price": "$219.99"
+    },
+    {
+      "id": "132",
+      "socket": "AM5",
+      "name": "MSI MAG B650M MORTAR WIFI",
+      "price": "$219.99"
+    },
+    {
+      "id": "133",
+      "socket": "AM5",
+      "name": "MSI MAG X670E TOMAHAWK WIFI",
+      "price": "$289.99"
+    },
+    {
+      "id": "134",
+      "socket": "AM5",
+      "name": "MSI PRO B650M-A WIFI",
+      "price": "$179.95"
+    }
+  ],
+  "memory": [
+    {
+      "id": "1",
+      "type": "DDR4",
+      "name": "Corsair Dominator Platinum RGB 16 GB",
+      "price": "$104.99"
+    },
+    {
+      "id": "2",
+      "type": "DDR4",
+      "name": "Corsair Vengeance LPX 16 GB",
+      "price": "$84.99"
+    },
+    {
+      "id": "3",
+      "type": "DDR4",
+      "name": "Corsair Vengeance LPX 32 GB",
+      "price": "$69.98"
+    },
+    {
+      "id": "4",
+      "type": "DDR4",
+      "name": "Corsair Vengeance RGB Pro 16 GB",
+      "price": "$64.95"
+    },
+    {
+      "id": "5",
+      "type": "DDR4",
+      "name": "Corsair Vengeance RGB Pro 32 GB",
+      "price": "$102.05"
+    },
+    {
+      "id": "6",
+      "type": "DDR4",
+      "name": "Corsair Vengeance RGB Pro SL 16 GB",
+      "price": "$59.99"
+    },
+    {
+      "id": "7",
+      "type": "DDR4",
+      "name": "Corsair Vengeance RGB Pro SL 32 GB",
+      "price": "$80.99"
+    },
+    {
+      "id": "8",
+      "type": "DDR4",
+      "name": "Corsair Vengeance RGB RS 16 GB",
+      "price": "$59.99"
+    },
+    {
+      "id": "9",
+      "type": "DDR4",
+      "name": "Corsair Vengeance RGB RS 32 GB",
+      "price": "$89.99"
+    },
+    {
+      "id": "10",
+      "type": "DDR4",
+      "name": "Corsair Vengeance RGB RT 16 GB",
+      "price": "$79.98"
+    },
+    {
+      "id": "11",
+      "type": "DDR4",
+      "name": "Corsair Vengeance RGB RT 32 GB",
+      "price": "$109.99"
+    },
+    {
+      "id": "12",
+      "type": "DDR4",
+      "name": "Crucial Ballistix 16 GB",
+      "price": "$104.99"
+    },
+    {
+      "id": "13",
+      "type": "DDR4",
+      "name": "G.Skill Aegis 32 GB",
+      "price": "$59.99"
+    },
+    {
+      "id": "14",
+      "type": "DDR4",
+      "name": "G.Skill Flare X 16 GB",
+      "price": "$73.99"
+    },
+    {
+      "id": "15",
+      "type": "DDR4",
+      "name": "G.Skill Flare X 32 GB",
+      "price": "$63.99"
+    },
+    {
+      "id": "16",
+      "type": "DDR4",
+      "name": "G.Skill Ripjaws V 16 GB",
+      "price": "$72.99"
+    },
+    {
+      "id": "16",
+      "type": "DDR4",
+      "name": "G.Skill Ripjaws V 32 GB",
+      "price": "$86.99"
+    },
+    {
+      "id": "17",
+      "type": "DDR4",
+      "name": "G.Skill Sniper X 32 GB",
+      "price": "$94.89"
+    },
+    {
+      "id": "18",
+      "type": "DDR4",
+      "name": "G.Skill Trident Z 16 GB",
+      "price": "$87.99"
+    },
+    {
+      "id": "19",
+      "type": "DDR4",
+      "name": "G.Skill Trident Z 32 GB",
+      "price": "$120.03"
+    },
+    {
+      "id": "20",
+      "type": "DDR4",
+      "name": "G.Skill Trident Z Neo 16 GB",
+      "price": "$76.98"
+    },
+    {
+      "id": "21",
+      "type": "DDR4",
+      "name": "G.Skill Trident Z Neo 32 GB",
+      "price": "$109.98"
+    },
+    {
+      "id": "22",
+      "type": "DDR4",
+      "name": "G.Skill Trident Z RGB 16 GB",
+      "price": "$59.99"
+    },
+    {
+      "id": "23",
+      "type": "DDR4",
+      "name": "G.Skill Trident Z RGB 32 GB",
+      "price": "$79.99"
+    },
+    {
+      "id": "24",
+      "type": "DDR4",
+      "name": "G.Skill Trident Z Royal 16 GB",
+      "price": "$84.99"
+    },
+    {
+      "id": "25",
+      "type": "DDR4",
+      "name": "G.Skill Trident Z Royal 32 GB",
+      "price": "$112.99"
+    },
+    {
+      "id": "26",
+      "type": "DDR4",
+      "name": "Kingston FURY Beast 32 GB",
+      "price": "$79.99"
+    },
+    {
+      "id": "27",
+      "type": "DDR4",
+      "name": "Kingston FURY Beast RGB 16 GB",
+      "price": "$65.17"
+    },
+    {
+      "id": "28",
+      "type": "DDR4",
+      "name": "Kingston FURY Beast RGB 32 GB",
+      "price": "$81.50"
+    },
+    {
+      "id": "29",
+      "type": "DDR4",
+      "name": "Kingston FURY Beast RGB Special Edition 32 GB",
+      "price": "$89.99"
+    },
+    {
+      "id": "30",
+      "type": "DDR4",
+      "name": "Kingston FURY Renegade 32 GB",
+      "price": "$97.24"
+    },
+    {
+      "id": "31",
+      "type": "DDR4",
+      "name": "Kingston FURY Renegade RGB 16 GB",
+      "price": "$59.99"
+    },
+    {
+      "id": "32",
+      "type": "DDR4",
+      "name": "Kingston FURY Renegade RGB 32 GB",
+      "price": "$99.99"
+    },
+    {
+      "id": "33",
+      "type": "DDR4",
+      "name": "Patriot Viper 4 16 GB",
+      "price": "$94.58"
+    },
+    {
+      "id": "34",
+      "type": "DDR4",
+      "name": "Patriot Viper 4 32 GB",
+      "price": "$108.88"
+    },
+    {
+      "id": "35",
+      "type": "DDR4",
+      "name": "Patriot Viper 4 Blackout 64 GB",
+      "price": "$106.99"
+    },
+    {
+      "id": "36",
+      "type": "DDR4",
+      "name": "Patriot Viper Steel 16 GB",
+      "price": "$84.99"
+    },
+    {
+      "id": "37",
+      "type": "DDR4",
+      "name": "Patriot Viper Steel 32 GB",
+      "price": "$67.98"
+    },
+    {
+      "id": "38",
+      "type": "DDR5",
+      "name": "Corsair Dominator Platinum RGB 32 GB DDR5",
+      "price": "$179.99"
+    },
+    {
+      "id": "39",
+      "type": "DDR5",
+      "name": "Corsair Dominator Platinum RGB 64 GB DDR5",
+      "price": "$238.99"
+    },
+    {
+      "id": "40",
+      "type": "DDR5",
+      "name": "Corsair Vengeance 32 GB DDR5",
+      "price": "$109.99"
+    },
+    {
+      "id": "41",
+      "type": "DDR5",
+      "name": "Corsair Vengeance 64 GB DDR5",
+      "price": "$165.99"
+    },
+    {
+      "id": "42",
+      "type": "DDR5",
+      "name": "Corsair Vengeance RGB 32 GB DDR5",
+      "price": "$119.99"
+    },
+    {
+      "id": "43",
+      "type": "DDR5",
+      "name": "Corsair Vengeance RGB 64 GB DDR5",
+      "price": "$254.99"
+    },
+    {
+      "id": "44",
+      "type": "DDR5",
+      "name": "G.Skill Flare X5 32 GB DDR5",
+      "price": "$99.99"
+    },
+    {
+      "id": "45",
+      "type": "DDR5",
+      "name": "G.Skill Flare X5 64 GB DDR5",
+      "price": "$189.99"
+    },
+    {
+      "id": "46",
+      "type": "DDR5",
+      "name": "G.Skill Ripjaws S5 32 GB DDR5",
+      "price": "$117.99"
+    },
+    {
+      "id": "47",
+      "type": "DDR5",
+      "name": "G.Skill Ripjaws S5 64 GB DDR5",
+      "price": "$189.99"
+    },
+    {
+      "id": "48",
+      "type": "DDR5",
+      "name": "G.Skill Trident Z 32 GB DDR5",
+      "price": "$124.99"
+    },
+    {
+      "id": "49",
+      "type": "DDR5",
+      "name": "G.Skill Trident Z5 Neo 32 GB DDR5",
+      "price": "$124.99"
+    },
+    {
+      "id": "50",
+      "type": "DDR5",
+      "name": "G.Skill Trident Z5 Neo 64 GB DDR5",
+      "price": "$239.99"
+    },
+    {
+      "id": "51",
+      "type": "DDR5",
+      "name": "G.Skill Trident Z5 Neo RGB 32 GB DDR5",
+      "price": "$134.99"
+    },
+    {
+      "id": "52",
+      "type": "DDR5",
+      "name": "G.Skill Trident Z5 Neo RGB 64 GB DDR5",
+      "price": "$245.99"
+    },
+    {
+      "id": "53",
+      "type": "DDR5",
+      "name": "G.Skill Trident Z5 RGB 32 GB DDR5",
+      "price": "$119.99"
+    },
+    {
+      "id": "54",
+      "type": "DDR5",
+      "name": "G.Skill Trident Z5 RGB 64 GB DDR5",
+      "price": "$249.99"
+    },
+    {
+      "id": "55",
+      "type": "DDR5",
+      "name": "Kingston FURY Beast 32 GB DDR5",
+      "price": "$124.99"
+    },
+    {
+      "id": "56",
+      "type": "DDR5",
+      "name": "Kingston FURY Beast 64 GB DDR5",
+      "price": "$222.77"
+    },
+    {
+      "id": "57",
+      "type": "DDR5",
+      "name": "Kingston FURY Beast RGB 16 GB DDR5",
+      "price": "$74.99"
+    },
+    {
+      "id": "58",
+      "type": "DDR5",
+      "name": "Kingston FURY Beast RGB 32 GB DDR5",
+      "price": "$136.96"
+    },
+    {
+      "id": "59",
+      "type": "DDR5",
+      "name": "Kingston FURY Beast RGB 64 GB DDR5",
+      "price": "$229.99"
+    },
+    {
+      "id": "60",
+      "type": "DDR5",
+      "name": "Kingston FURY Renegade RGB 32 GB DDR5",
+      "price": "$174.29"
+    },
+    {
+      "id": "60",
+      "type": "DDR5",
+      "name": "Patriot Viper Black 16 GB DDR5",
+      "price": "$64.98"
+    }
+  ],
+  "storage": [
+    {
+      "id": "1",
+      "type": "NVME",
+      "name": "Crucial P1 1TB",
+      "price": "$119.00"
+    },
+    {
+      "id": "2",
+      "type": "NVME",
+      "name": "Crucial P2 1TB",
+      "price": "$65.98"
+    },
+    {
+      "id": "3",
+      "type": "NVME",
+      "name": "Crucial P2 500GB",
+      "price": "$49.94"
+    },
+    {
+      "id": "4",
+      "type": "NVME",
+      "name": "Crucial P2 2TB",
+      "price": "$132.94"
+    },
+    {
+      "id": "5",
+      "type": "NVME",
+      "name": "Crucial P3 1TB",
+      "price": "$45.99"
+    },
+    {
+      "id": "6",
+      "type": "NVME",
+      "name": "Crucial P3 2TB",
+      "price": "$88.99"
+    },
+    {
+      "id": "7",
+      "type": "NVME",
+      "name": "Crucial P3 500GB",
+      "price": "$29.99"
+    },
+    {
+      "id": "8",
+      "type": "NVME",
+      "name": "Crucial P3 Plus 1TB",
+      "price": "$51.99"
+    },
+    {
+      "id": "9",
+      "type": "NVME",
+      "name": "Crucial P3 Plus 2TB",
+      "price": "$104.99"
+    },
+    {
+      "id": "10",
+      "type": "NVME",
+      "name": "Crucial P3 Plus 500GB",
+      "price": "$31.99"
+    },
+    {
+      "id": "11",
+      "type": "NVME",
+      "name": "Crucial P5 1TB",
+      "price": "$124.98"
+    },
+    {
+      "id": "12",
+      "type": "NVME",
+      "name": "Crucial P5 500GB",
+      "price": "$59.99"
+    },
+    {
+      "id": "13",
+      "type": "NVME",
+      "name": "Crucial P5 2TB",
+      "price": "$286.36"
+    },
+    {
+      "id": "14",
+      "type": "NVME",
+      "name": "Crucial P5 Plus 2TB",
+      "price": "$122.49"
+    },
+    {
+      "id": "15",
+      "type": "NVME",
+      "name": "Crucial P5 Plus 1TB",
+      "price": "$79.98"
+    },
+    {
+      "id": "16",
+      "type": "NVME",
+      "name": "Crucial P5 Plus 500GB",
+      "price": "$57.99"
+    },
+    {
+      "id": "17",
+      "type": "NVME",
+      "name": "Kingston A2000 1TB",
+      "price": "$179.98"
+    },
+    {
+      "id": "18",
+      "type": "NVME",
+      "name": "Kingston Fury Renegade 2TB",
+      "price": "$158.26"
+    },
+    {
+      "id": "19",
+      "type": "NVME",
+      "name": "Kingston Fury Renegade 1TB",
+      "price": "$86.40"
+    },
+    {
+      "id": "20",
+      "type": "NVME",
+      "name": "Kingston KC2500 1TB",
+      "price": "$129.50"
+    },
+    {
+      "id": "21",
+      "type": "NVME",
+      "name": "Kingston KC2500 500GB",
+      "price": "$69.98"
+    },
+    {
+      "id": "22",
+      "type": "NVME",
+      "name": "Kingston KC3000 2TB",
+      "price": "$146.34"
+    },
+    {
+      "id": "23",
+      "type": "NVME",
+      "name": "Kingston KC3000 1TB",
+      "price": "$82.84"
+    },
+    {
+      "id": "24",
+      "type": "NVME",
+      "name": "Kingston NV1 1TB",
+      "price": "$49.99"
+    },
+    {
+      "id": "25",
+      "type": "NVME",
+      "name": "Kingston NV1 500GB",
+      "price": "$29.99"
+    },
+    {
+      "id": "26",
+      "type": "NVME",
+      "name": "Kingston NV1 2TB",
+      "price": "$127.99"
+    },
+    {
+      "id": "27",
+      "type": "NVME",
+      "name": "Kingston NV2 1TB",
+      "price": "$42.83"
+    },
+    {
+      "id": "28",
+      "type": "NVME",
+      "name": "Kingston NV2 2TB",
+      "price": "$84.99"
+    },
+    {
+      "id": "29",
+      "type": "NVME",
+      "name": "Kingston NV2 500GB",
+      "price": "$27.99"
+    },
+    {
+      "id": "30",
+      "type": "NVME",
+      "name": "Patriot P300 512GB",
+      "price": "$26.99"
+    },
+    {
+      "id": "31",
+      "type": "NVME",
+      "name": "Patriot P300 1TB",
+      "price": "$45.99"
+    },
+    {
+      "id": "32",
+      "type": "NVME",
+      "name": "Patriot Viper VP4300 2TB",
+      "price": "$129.99"
+    },
+    {
+      "id": "33",
+      "type": "NVME",
+      "name": "Patriot Viper VPN110 512GB",
+      "price": "$37.99"
+    },
+    {
+      "id": "34",
+      "type": "NVME",
+      "name": "Patriot Viper VPN110 1TB",
+      "price": "$314.89"
+    },
+    {
+      "id": "35",
+      "type": "NVME",
+      "name": "Samsung 960 Evo 500GB",
+      "price": "$112.95"
+    },
+    {
+      "id": "36",
+      "type": "NVME",
+      "name": "Samsung 960 Evo 1TB",
+      "price": "$125.99"
+    },
+    {
+      "id": "37",
+      "type": "NVME",
+      "name": "Samsung 960 Pro 512GB",
+      "price": "$199.99"
+    },
+    {
+      "id": "38",
+      "type": "NVME",
+      "name": "Samsung 970 Evo 1TB",
+      "price": "$110.98"
+    },
+    {
+      "id": "39",
+      "type": "NVME",
+      "name": "Samsung 970 Evo 500GB",
+      "price": "$64.98"
+    },
+    {
+      "id": "40",
+      "type": "NVME",
+      "name": "Samsung 970 Evo 2TB",
+      "price": "$190.00"
+    },
+    {
+      "id": "41",
+      "type": "NVME",
+      "name": "Samsung 970 Evo Plus 1TB",
+      "price": "$59.99"
+    },
+    {
+      "id": "42",
+      "type": "NVME",
+      "name": "Samsung 970 Evo Plus 2TB",
+      "price": "$129.99"
+    },
+    {
+      "id": "43",
+      "type": "NVME",
+      "name": "Samsung 970 Evo Plus 500GB",
+      "price": "$40.90"
+    },
+    {
+      "id": "44",
+      "type": "NVME",
+      "name": "Samsung 970 Evo Pro 1TB",
+      "price": "$258.25"
+    },
+    {
+      "id": "45",
+      "type": "NVME",
+      "name": "Samsung 970 Evo Pro 512GB",
+      "price": "$184.99"
+    },
+    {
+      "id": "46",
+      "type": "NVME",
+      "name": "Samsung 980 1TB",
+      "price": "$59.99"
+    },
+    {
+      "id": "47",
+      "type": "NVME",
+      "name": "Samsung 980 500GB",
+      "price": "$39.99"
+    },
+    {
+      "id": "48",
+      "type": "NVME",
+      "name": "Samsung 980 Pro 2TB",
+      "price": "$139.00"
+    },
+    {
+      "id": "49",
+      "type": "NVME",
+      "name": "Samsung 980 Pro 1TB",
+      "price": "$79.98"
+    },
+    {
+      "id": "50",
+      "type": "NVME",
+      "name": "Samsung 980 Pro 500GB",
+      "price": "$73.89"
+    },
+    {
+      "id": "51",
+      "type": "NVME",
+      "name": "Samsung 980 Pro w/Heatsink 2TB",
+      "price": "$169.54"
+    },
+    {
+      "id": "52",
+      "type": "NVME",
+      "name": "Samsung 980 Pro w/Heatsink 1TB",
+      "price": "$89.99"
+    },
+    {
+      "id": "53",
+      "type": "NVME",
+      "name": "Samsung 990 Pro 2TB",
+      "price": "$159.99"
+    },
+    {
+      "id": "54",
+      "type": "NVME",
+      "name": "Samsung PM961 512GB",
+      "price": "$109.00"
+    },
+    {
+      "id": "55",
+      "type": "NVME",
+      "name": "Samsung PM981 1TB",
+      "price": "$179.00"
+    },
+    {
+      "id": "56",
+      "type": "NVME",
+      "name": "Silicon Power A60 1TB",
+      "price": "$38.97"
+    },
+    {
+      "id": "57",
+      "type": "NVME",
+      "name": "Silicon Power A60 2TB",
+      "price": "$72.97"
+    },
+    {
+      "id": "58",
+      "type": "NVME",
+      "name": "Silicon Power A80 2TB",
+      "price": "$79.98"
+    },
+    {
+      "id": "59",
+      "type": "NVME",
+      "name": "Silicon Power A80 512GB",
+      "price": "$27.19"
+    },
+    {
+      "id": "60",
+      "type": "NVME",
+      "name": "Silicon Power P34A60 512GB",
+      "price": "$23.97"
+    },
+    {
+      "id": "61",
+      "type": "NVME",
+      "name": "Silicon Power P34A80 1TB",
+      "price": "$44.19"
+    },
+    {
+      "id": "62",
+      "type": "NVME",
+      "name": "Silicon Power UD90 1TB",
+      "price": "$42.85"
+    },
+    {
+      "id": "63",
+      "type": "NVME",
+      "name": "Silicon Power UD90 2TB",
+      "price": "$85.49"
+    },
+    {
+      "id": "64",
+      "type": "NVME",
+      "name": "Silicon Power XS70 2TB",
+      "price": "$114.99"
+    }
+  ],
+  "gpu": [
+    {
+      "id": "1",
+      "chipset": "GeForce RTX 3080 12GB LHR",
+      "name": "Asus ROG STRIX GAMING OC",
+      "price": "$1399.99"
+    },
+    {
+      "id": "2",
+      "chipset": "GeForce RTX 3080 12GB LHR",
+      "name": "MSI VENTUS 3X PLUS OC",
+      "price": "$1049.99"
+    },
+    {
+      "id": "3",
+      "chipset": "GeForce RTX 3080 12GB LHR",
+      "name": "Gigabyte GAMING OC",
+      "price": "$1499.00"
+    },
+    {
+      "id": "4",
+      "chipset": "GeForce RTX 3080 12GB LHR",
+      "name": "Asus TUF GAMING OC",
+      "price": "$1571.55"
+    },
+    {
+      "id": "5",
+      "chipset": "GeForce RTX 3080 Ti",
+      "name": "MSI GAMING X TRIO",
+      "price": "$1499.95"
+    },
+    {
+      "id": "6",
+      "chipset": "GeForce RTX 3080 Ti",
+      "name": "Asus TUF GAMING OC",
+      "price": "$1518.32"
+    },
+    {
+      "id": "7",
+      "chipset": "GeForce RTX 3080 Ti",
+      "name": "Zotac GAMING Trinity OC",
+      "price": "$1345.92"
+    },
+    {
+      "id": "8",
+      "chipset": "GeForce RTX 3080 Ti",
+      "name": "Asus ROG STRIX GAMING OC",
+      "price": "$1899.00"
+    },
+    {
+      "id": "9",
+      "chipset": "GeForce RTX 3080 Ti",
+      "name": "MSI VENTUS 3X OC",
+      "price": "$1449.99"
+    },
+    {
+      "id": "10",
+      "chipset": "GeForce RTX 3080 Ti",
+      "name": "Gigabyte AORUS MASTER",
+      "price": "$2298.00"
+    },
+    {
+      "id": "11",
+      "chipset": "GeForce RTX 3090",
+      "name": "Zotac GAMING Trinity OC",
+      "price": "$1374.99"
+    },
+    {
+      "id": "12",
+      "chipset": "GeForce RTX 3090",
+      "name": "Asus ROG STRIX GAMING OC",
+      "price": "$1799.95"
+    },
+    {
+      "id": "13",
+      "chipset": "GeForce RTX 3090",
+      "name": "MSI GeForce RTX 3090 GAMING X TRIO 24G",
+      "price": "$1699.00"
+    },
+    {
+      "id": "14",
+      "chipset": "GeForce RTX 3090",
+      "name": "Asus ROG STRIX WHITE OC",
+      "price": "$2299.98"
+    },
+    {
+      "id": "15",
+      "chipset": "GeForce RTX 3090",
+      "name": "Asus TUF GAMING OC",
+      "price": "$1749.79"
+    },
+    {
+      "id": "16",
+      "chipset": "GeForce RTX 3090",
+      "name": "MSI RTX 3090 SUPRIM X 24G",
+      "price": "$2419.80"
+    },
+    {
+      "id": "17",
+      "chipset": "GeForce RTX 3090",
+      "name": "MSI GeForce RTX 3090 VENTUS 3X 24G OC",
+      "price": "$1950.00"
+    },
+    {
+      "id": "18",
+      "chipset": "GeForce RTX 3090",
+      "name": "Gigabyte GAMING OC",
+      "price": "$1789.99"
+    },
+    {
+      "id": "19",
+      "chipset": "GeForce RTX 3090 Ti",
+      "name": "Asus ROG STRIX GAMING OC",
+      "price": "$1749.99"
+    },
+    {
+      "id": "20",
+      "chipset": "GeForce RTX 3090 Ti",
+      "name": "ZOtac AMP Extreme Core Holo",
+      "price": "$1699.95"
+    },
+    {
+      "id": "21",
+      "chipset": "GeForce RTX 4070",
+      "name": "Asus DUAL",
+      "price": "$599.99"
+    },
+    {
+      "id": "22",
+      "chipset": "GeForce RTX 4070",
+      "name": "Gigabyte WINDFORCE OC",
+      "price": "$599.99"
+    },
+    {
+      "id": "23",
+      "chipset": "GeForce RTX 4070",
+      "name": "MSI VENTUS 3X OC",
+      "price": "$599.99"
+    },
+    {
+      "id": "24",
+      "chipset": "GeForce RTX 4070",
+      "name": "Asus DUAL OC",
+      "price": "$599.99"
+    },
+    {
+      "id": "25",
+      "chipset": "GeForce RTX 4070",
+      "name": "Gigabyte AERO OC",
+      "price": "$679.99"
+    },
+    {
+      "id": "26",
+      "chipset": "GeForce RTX 4070",
+      "name": "Asus DUAL OC White",
+      "price": "$599.99"
+    },
+    {
+      "id": "27",
+      "chipset": "GeForce RTX 4070",
+      "name": "Zotac GAMING AMP AIRO",
+      "price": "$659.99"
+    },
+    {
+      "id": "28",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "Asus TUF GAMING",
+      "price": "$799.99"
+    },
+    {
+      "id": "29",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "MSI GAMING X TRIO",
+      "price": "$869.99"
+    },
+    {
+      "id": "30",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "MSI VENTUS 3X OC",
+      "price": "$814.99"
+    },
+    {
+      "id": "31",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "Gigabyte AERO OC",
+      "price": "$899.00"
+    },
+    {
+      "id": "32",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "Asus TUF GAMING OC",
+      "price": "$849.99"
+    },
+    {
+      "id": "33",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "Gigabyte GAMING OC",
+      "price": "$849.99"
+    },
+    {
+      "id": "34",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "Gigabyte EAGLE OC",
+      "price": "$849.99"
+    },
+    {
+      "id": "35",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "MSI VENTUS 3X",
+      "price": "$799.99"
+    },
+    {
+      "id": "36",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "Asus ROG STRIX GAMING",
+      "price": "$949.99"
+    },
+    {
+      "id": "37",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "Zotac GAMING Trinity",
+      "price": "$1100.00"
+    },
+    {
+      "id": "38",
+      "chipset": "GeForce RTX 4070 Ti",
+      "name": "Zotac GAMING AMP Extreme AIRO",
+      "price": "$879.99"
+    },
+    {
+      "id": "39",
+      "chipset": "GeForce RTX 4080",
+      "name": "Asus TUF GAMING",
+      "price": "$1199.00"
+    },
+    {
+      "id": "40",
+      "chipset": "GeForce RTX 4080",
+      "name": "Gigabyte GAMING OC",
+      "price": "$1152.83"
+    },
+    {
+      "id": "41",
+      "chipset": "GeForce RTX 4080",
+      "name": "Gigabyte AERO OC",
+      "price": "$1249.99"
+    },
+    {
+      "id": "42",
+      "chipset": "GeForce RTX 4080",
+      "name": "MSI VENTUS 3X OC",
+      "price": "$1189.00"
+    },
+    {
+      "id": "43",
+      "chipset": "GeForce RTX 4080",
+      "name": "Asus ROG STRIX GAMING OC",
+      "price": "$1449.00"
+    },
+    {
+      "id": "44",
+      "chipset": "GeForce RTX 4080",
+      "name": "Asus ROG STRIX GAMING OC White",
+      "price": "$1599.99"
+    },
+    {
+      "id": "45",
+      "chipset": "GeForce RTX 4080",
+      "name": "Gigabyte EAGLE OC",
+      "price": "$1189.99"
+    },
+    {
+      "id": "46",
+      "chipset": "GeForce RTX 4080",
+      "name": "MSI SUPRIM X",
+      "price": "$1399.00"
+    },
+    {
+      "id": "47",
+      "chipset": "GeForce RTX 4080",
+      "name": "Asus TUF GAMING OC",
+      "price": "$1249.99"
+    },
+    {
+      "id": "48",
+      "chipset": "GeForce RTX 4080",
+      "name": "Asus Noctua OC",
+      "price": "$1644.99"
+    },
+    {
+      "id": "49",
+      "chipset": "GeForce RTX 4080",
+      "name": "Zotac GAMING Trinity",
+      "price": "$1199.99"
+    },
+    {
+      "id": "50",
+      "chipset": "GeForce RTX 4090",
+      "name": "Asus ROG STRIX GAMING OC",
+      "price": "$1999.99"
+    },
+    {
+      "id": "51",
+      "chipset": "GeForce RTX 4090",
+      "name": "Gigabyte GAMING OC",
+      "price": "$1699.99"
+    },
+    {
+      "id": "52",
+      "chipset": "GeForce RTX 4090",
+      "name": "MSI GAMING X TRIO",
+      "price": "$1649.99"
+    },
+    {
+      "id": "53",
+      "chipset": "GeForce RTX 4090",
+      "name": "Asus ROG STRIX GAMING OC White",
+      "price": "$2235.28"
+    },
+    {
+      "id": "54",
+      "chipset": "GeForce RTX 4090",
+      "name": "MSI SUPRIM X",
+      "price": "$1941.73"
+    },
+    {
+      "id": "55",
+      "chipset": "GeForce RTX 4090",
+      "name": "Zotac GAMING Trinity OC",
+      "price": "$1589.99"
+    },
+    {
+      "id": "56",
+      "chipset": "GeForce RTX 4090",
+      "name": "MSI SUPRIM LIQUID X",
+      "price": "$1799.99"
+    },
+    {
+      "id": "57",
+      "chipset": "GeForce RTX 4090",
+      "name": "Asus TUF GAMING OC",
+      "price": "$1796.96"
+    },
+    {
+      "id": "58",
+      "chipset": "GeForce RTX 4090",
+      "name": "Gigabyte AORUS XTREME WATERFORCE",
+      "price": "$2209.90"
+    },
+    {
+      "id": "59",
+      "chipset": "GeForce RTX 4090",
+      "name": "Gigabyte AERO OC",
+      "price": "$1749.99"
+    },
+    {
+      "id": "60",
+      "chipset": "GeForce RTX 4090",
+      "name": "Asus TUF GAMING",
+      "price": "$1884.90"
+    },
+    {
+      "id": "61",
+      "chipset": "GeForce RTX 4090",
+      "name": "MSI GAMING TRIO",
+      "price": "$1738.88"
+    },
+    {
+      "id": "62",
+      "chipset": "GeForce RTX 4090",
+      "name": "Zotac GAMING AMP Extreme AIRO",
+      "price": "$1639.00"
+    },
+    {
+      "id": "63",
+      "chipset": "GeForce RTX 4090",
+      "name": "Gigabyte WINDFORCE",
+      "price": "$1748.88"
+    },
+    {
+      "id": "64",
+      "chipset": "Radeon RX 6800",
+      "name": "Gigabyte GAMING OC",
+      "price": "$682.51"
+    },
+    {
+      "id": "65",
+      "chipset": "Radeon RX 6800",
+      "name": "Sapphire PULSE",
+      "price": "$489.99"
+    },
+    {
+      "id": "66",
+      "chipset": "Radeon RX 6800",
+      "name": "Sapphire NITRO+",
+      "price": "$889.90"
+    },
+    {
+      "id": "67",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "XFX Speedster MERC 319 CORE",
+      "price": "$509.99"
+    },
+    {
+      "id": "68",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "Sapphire PULSE",
+      "price": "$514.99"
+    },
+    {
+      "id": "69",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "PowerColor Red Dragon OC",
+      "price": "$539.99"
+    },
+    {
+      "id": "70",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "MSI GAMING Z TRIO",
+      "price": "$669.00"
+    },
+    {
+      "id": "71",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "Gigabyte GAMING OC",
+      "price": "$679.99"
+    },
+    {
+      "id": "72",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "MSI Radeon RX 6800 XT Gaming X Trio 16G",
+      "price": "$1127.85"
+    },
+    {
+      "id": "73",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "Asus TUF-RX6800XT-O16G-GAMING",
+      "price": "$1150.00"
+    },
+    {
+      "id": "74",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "PowerColor Red Devil OC",
+      "price": "$889.00"
+    },
+    {
+      "id": "75",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "Gigabyte AORUS MASTER",
+      "price": "$1899.00"
+    },
+    {
+      "id": "76",
+      "chipset": "Radeon RX 6800 XT",
+      "name": "XFX RX-68XTACBD9",
+      "price": "$800.00"
+    },
+    {
+      "id": "77",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "XFX Speedster MERC 319 Black",
+      "price": "$579.99"
+    },
+    {
+      "id": "78",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "Gigabyte GAMING OC",
+      "price": "$1720.23"
+    },
+    {
+      "id": "79",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "Asus TUF GAMING OC",
+      "price": "$1496.00"
+    },
+    {
+      "id": "80",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "Sapphire NITRO+ SE",
+      "price": "$1256.20"
+    },
+    {
+      "id": "81",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "Asus ROG Strix LC GAMING OC",
+      "price": "$1649.99"
+    },
+    {
+      "id": "82",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "Asus TUF GAMING TOP",
+      "price": "$1716.99"
+    },
+    {
+      "id": "83",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "Sapphire TOXIC Limited Edition",
+      "price": "$1509.67"
+    },
+    {
+      "id": "84",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "XFX Speedster MERC 319 Ultra",
+      "price": "$2099.98"
+    },
+    {
+      "id": "85",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "PowerColor AXRX 6900XT 16GBD6-M2DHC",
+      "price": "$1506.66"
+    },
+    {
+      "id": "86",
+      "chipset": "Radeon RX 6900 XT",
+      "name": "Sapphire TOXIC Extreme Edition",
+      "price": "$1782.09"
+    },
+    {
+      "id": "87",
+      "chipset": "Radeon RX 6950 XT",
+      "name": "XFX Speedster MERC 319",
+      "price": "$629.99"
+    },
+    {
+      "id": "88",
+      "chipset": "Radeon RX 6950 XT",
+      "name": "PowerColor Red Devil OC",
+      "price": "$629.99"
+    },
+    {
+      "id": "89",
+      "chipset": "Radeon RX 6950 XT",
+      "name": "Sapphire NITRO+",
+      "price": "$679.99"
+    },
+    {
+      "id": "90",
+      "chipset": "Radeon RX 6950 XT",
+      "name": "Sapphire NITRO+ PURE",
+      "price": "$1208.83"
+    },
+    {
+      "id": "91",
+      "chipset": "Radeon RX 7900 XT",
+      "name": "XFX Speedster MERC 310 Black Edition",
+      "price": "$799.15"
+    },
+    {
+      "id": "92",
+      "chipset": "Radeon RX 7900 XT",
+      "name": "Sapphire 21323-01-20G",
+      "price": "$876.23"
+    },
+    {
+      "id": "93",
+      "chipset": "Radeon RX 7900 XT",
+      "name": "XFX Speedster MERC 310",
+      "price": "$791.31"
+    },
+    {
+      "id": "94",
+      "chipset": "Radeon RX 7900 XT",
+      "name": "MSI GAMING TRIO CLASSIC",
+      "price": "$779.24"
+    },
+    {
+      "id": "95",
+      "chipset": "Radeon RX 7900 XT",
+      "name": "PowerColor Hellhound",
+      "price": "$799.99"
+    },
+    {
+      "id": "96",
+      "chipset": "Radeon RX 7900 XT",
+      "name": "Gigabyte GAMING OC",
+      "price": "$879.99"
+    },
+    {
+      "id": "97",
+      "chipset": "Radeon RX 7900 XT",
+      "name": "Sapphire NITRO+",
+      "price": "$1045.00"
+    },
+    {
+      "id": "98",
+      "chipset": "Radeon RX 7900 XTX",
+      "name": "XFX Speedster MERC 310 Black Edition",
+      "price": "$979.99"
+    },
+    {
+      "id": "99",
+      "chipset": "Radeon RX 7900 XTX",
+      "name": "Sapphire PULSE",
+      "price": "$999.99"
+    },
+    {
+      "id": "100",
+      "chipset": "Radeon RX 7900 XTX",
+      "name": "PowerColor Red Devil",
+      "price": "$1019.99"
+    },
+    {
+      "id": "101",
+      "chipset": "Radeon RX 7900 XTX",
+      "name": "Gigabyte GAMING OC",
+      "price": "$1049.99"
+    },
+    {
+      "id": "102",
+      "chipset": "Radeon RX 7900 XTX",
+      "name": "Gigabyte GAMING TRIO CLASSIC",
+      "price": "$1099.99"
+    },
+    {
+      "id": "103",
+      "chipset": "Radeon RX 7900 XTX",
+      "name": "PowerColor RX7900XTX 24G",
+      "price": "$1239.99"
+    },
+    {
+      "id": "104",
+      "chipset": "Radeon RX 7900 XTX",
+      "name": "XFX RX-79XMBABF9",
+      "price": "$1783.00"
+    }
+  ],
+  "case": [
+    {
+      "id": "1",
+      "type": "ATX Mid Tower",
+      "name": "Antec DF700 FLUX",
+      "price": "$104.99"
+    },
+    {
+      "id": "2",
+      "type": "ATX Mid Tower",
+      "name": "Antec DP503",
+      "price": "$114.98"
+    },
+    {
+      "id": "3",
+      "type": "MicroATX Mid Tower",
+      "name": "Antec NX200M",
+      "price": "$54.99"
+    },
+    {
+      "id": "4",
+      "type": "ATX Mid Tower",
+      "name": "Asus TUF GAMING GT501",
+      "price": "$179.99"
+    },
+    {
+      "id": "5",
+      "type": "ATX Mid Tower",
+      "name": "be quiet! Pure Base 500 FX",
+      "price": "$149.90"
+    },
+    {
+      "id": "6",
+      "type": "ATX Mid Tower",
+      "name": "be quiet! Pure Base 500DX",
+      "price": "$99.99"
+    },
+    {
+      "id": "7",
+      "type": "ATX Mid Tower",
+      "name": "be quiet! Pure Base 500DX White",
+      "price": "$109.90"
+    },
+    {
+      "id": "8",
+      "type": "ATX Mid Tower",
+      "name": "be quiet! Silent Base 601",
+      "price": "$149.90"
+    },
+    {
+      "id": "9",
+      "type": "ATX Mid Tower",
+      "name": "be quiet! Silent Base 601 Black",
+      "price": "$149.90"
+    },
+    {
+      "id": "10",
+      "type": "ATX Mid Tower",
+      "name": "be quiet! Silent Base 802",
+      "price": "$179.90"
+    },
+    {
+      "id": "11",
+      "type": "ATX Mid Tower",
+      "name": "be quiet! Silent Base 802 White",
+      "price": "$187.97"
+    },
+    {
+      "id": "12",
+      "type": "ATX Mid Tower",
+      "name": "Cooler Master MasterBox MB511 RGB",
+      "price": "$126.09"
+    },
+    {
+      "id": "13",
+      "type": "MicroATX Mid Tower",
+      "name": "Cooler Master MasterBox NR400 (w/ODD)",
+      "price": "$84.99"
+    },
+    {
+      "id": "14",
+      "type": "ATX Mid Tower",
+      "name": "Cooler Master MasterBox NR400 (w/ODD)",
+      "price": "$99.99"
+    },
+    {
+      "id": "15",
+      "type": "ATX Mid Tower",
+      "name": "Cooler Master MasterBox TD500 Mesh w/Controller",
+      "price": "$129.99"
+    },
+    {
+      "id": "16",
+      "type": "ATX Mid Tower",
+      "name": "Cooler Master MasterBox TD500 Mesh White w/Controller",
+      "price": "$129.99"
+    },
+    {
+      "id": "17",
+      "type": "ATX Mid Tower",
+      "name": "Corsair 275R Airflow",
+      "price": "$170.10"
+    },
+    {
+      "id": "18",
+      "type": "ATX Mid Tower",
+      "name": "Corsair 4000D",
+      "price": "$94.99"
+    },
+    {
+      "id": "19",
+      "type": "ATX Mid Tower",
+      "name": "Corsair 5000D",
+      "price": "$98.99"
+    },
+    {
+      "id": "20",
+      "type": "ATX Mid Tower",
+      "name": "Corsair 5000D AIRFLOW",
+      "price": "$154.99"
+    },
+    {
+      "id": "21",
+      "type": "ATX Mid Tower",
+      "name": "Corsair 5000D AIRFLOW White",
+      "price": "$154.99"
+    },
+    {
+      "id": "22",
+      "type": "MicroATX Mid Tower",
+      "name": "Corsair Crystal 280X RGB",
+      "price": "$180.66"
+    },
+    {
+      "id": "23",
+      "type": "MicroATX Mid Tower",
+      "name": "Corsair Crystal 280X RGB Black",
+      "price": "$179.95"
+    },
+    {
+      "id": "24",
+      "type": "ATX Mid Tower",
+      "name": "Corsair iCUE 4000D RGB AIRFLOW",
+      "price": "$149.99"
+    },
+    {
+      "id": "25",
+      "type": "ATX Mid Tower",
+      "name": "Corsair iCUE 4000X RGB",
+      "price": "$109.99"
+    },
+    {
+      "id": "26",
+      "type": "ATX Mid Tower",
+      "name": "Corsair iCUE 4000X RGB White",
+      "price": "$109.99"
+    },
+    {
+      "id": "27",
+      "type": "ATX Mid Tower",
+      "name": "Corsair iCUE 465X RGB",
+      "price": "$149.99"
+    },
+    {
+      "id": "28",
+      "type": "ATX Mid Tower",
+      "name": "Corsair iCUE 5000X RGB",
+      "price": "$169.99"
+    },
+    {
+      "id": "29",
+      "type": "ATX Mid Tower",
+      "name": "Corsair iCUE 5000X RGB White",
+      "price": "$169.99"
+    },
+    {
+      "id": "30",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Define 7 Compact",
+      "price": "$101.99"
+    },
+    {
+      "id": "31",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Define 7 Compact White",
+      "price": "$136.72"
+    },
+    {
+      "id": "32",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Meshify 2",
+      "price": "$148.98"
+    },
+    {
+      "id": "33",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Meshify 2 Compact TG Light Tint",
+      "price": "$136.98"
+    },
+    {
+      "id": "34",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Meshify 2 Compact White TG Clear Tint",
+      "price": "$88.98"
+    },
+    {
+      "id": "35",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Meshify 2 Lite",
+      "price": "$100.00"
+    },
+    {
+      "id": "36",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Meshify 2 Lite Black RGB",
+      "price": "$157.98"
+    },
+    {
+      "id": "37",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Meshify 2 Lite Black",
+      "price": "$138.78"
+    },
+    {
+      "id": "38",
+      "type": "MicroATX Mid Tower",
+      "name": "Fractal Design Meshify 2 Mini",
+      "price": "$106.00"
+    },
+    {
+      "id": "39",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Meshify 2 RGB",
+      "price": "$174.99"
+    },
+    {
+      "id": "40",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Meshify C",
+      "price": "$99.99"
+    },
+    {
+      "id": "41",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Meshify C White",
+      "price": "$99.99"
+    },
+    {
+      "id": "42",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design North",
+      "price": "$149.98"
+    },
+    {
+      "id": "43",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design North White",
+      "price": "$149.98"
+    },
+    {
+      "id": "44",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Pop Air",
+      "price": "$79.99"
+    },
+    {
+      "id": "45",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Pop Air RGB",
+      "price": "$89.99"
+    },
+    {
+      "id": "46",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Pop Air RGB White",
+      "price": "$89.99"
+    },
+    {
+      "id": "47",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Pop Air White",
+      "price": "$106.09"
+    },
+    {
+      "id": "48",
+      "type": "MicroATX Mid Tower",
+      "name": "Fractal Design Pop Mini Air",
+      "price": "$89.99"
+    },
+    {
+      "id": "49",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Torrent",
+      "price": "$179.98"
+    },
+    {
+      "id": "50",
+      "type": "ATX Mid Tower",
+      "name": "Fractal Design Torrent Compact",
+      "price": "$120.98"
+    },
+    {
+      "id": "51",
+      "type": "Mini ITX Tower",
+      "name": "Fractal Design Torrent Nano",
+      "price": "$122.34"
+    },
+    {
+      "id": "52",
+      "type": "ATX Mid Tower",
+      "name": "MSI MPG GUNGNIR 110R",
+      "price": "$109.99"
+    },
+    {
+      "id": "53",
+      "type": "ATX Mid Tower",
+      "name": "MSI MPG VELOX 100R",
+      "price": "$139.99"
+    },
+    {
+      "id": "54",
+      "type": "Mini ITX Tower",
+      "name": "NZXT H210i",
+      "price": "$109.99"
+    },
+    {
+      "id": "55",
+      "type": "Mini ITX Tower",
+      "name": "NZXT H210i Red",
+      "price": "$99.85"
+    },
+    {
+      "id": "56",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H5 Elite",
+      "price": "$139.99"
+    },
+    {
+      "id": "57",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H5 Elite White",
+      "price": "$139.99"
+    },
+    {
+      "id": "58",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H5 Flow",
+      "price": "$94.99"
+    },
+    {
+      "id": "59",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H5 Flow White",
+      "price": "$94.99"
+    },
+    {
+      "id": "60",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H500 Red",
+      "price": "$159.00"
+    },
+    {
+      "id": "61",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H500 Blue",
+      "price": "$180.00"
+    },
+    {
+      "id": "62",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H510 Elite",
+      "price": "$124.99"
+    },
+    {
+      "id": "63",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H510 Flow",
+      "price": "$89.99"
+    },
+    {
+      "id": "64",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H510i",
+      "price": "$105.99"
+    },
+    {
+      "id": "65",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H510i Red",
+      "price": "$105.99"
+    },
+    {
+      "id": "66",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H7 White",
+      "price": "$129.99"
+    },
+    {
+      "id": "67",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H7",
+      "price": "$129.99"
+    },
+    {
+      "id": "68",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H7 Flow White",
+      "price": "$129.99"
+    },
+    {
+      "id": "69",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H7 Flow",
+      "price": "$129.99"
+    },
+    {
+      "id": "70",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H7 Flow RGB",
+      "price": "$159.99"
+    },
+    {
+      "id": "71",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H710",
+      "price": "$118.99"
+    },
+    {
+      "id": "72",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H710 Black",
+      "price": "$169.99"
+    },
+    {
+      "id": "73",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H9 Flow White",
+      "price": "$159.99"
+    },
+    {
+      "id": "74",
+      "type": "ATX Mid Tower",
+      "name": "NZXT H9 Flow Black",
+      "price": "$159.99"
+    },
+    {
+      "id": "75",
+      "type": "MicroATX Mini Tower",
+      "name": "Thermaltake S100",
+      "price": "$69.99"
+    },
+    {
+      "id": "76",
+      "type": "ATX Mid Tower",
+      "name": "Thermaltake S300 Tempered Glass Edition",
+      "price": "$100.98"
+    },
+    {
+      "id": "77",
+      "type": "Mini ITX Tower",
+      "name": "Thermaltake The Tower 100",
+      "price": "$99.99"
+    },
+    {
+      "id": "78",
+      "type": "MicroATX Mid Tower",
+      "name": "Thermaltake V150 Tempered Glass ARGB Breeze",
+      "price": "$99.99"
+    }
+  ],
+  "psu": [
+    {
+      "id": "1",
+      "type": "ATX",
+      "name": "Asus ROG Strix",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$160.00"
+    },
+    {
+      "id": "2",
+      "type": "ATX",
+      "name": "Asus ROG-STRIX-850G",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$149.98"
+    },
+    {
+      "id": "3",
+      "type": "ATX",
+      "name": "Asus TUF Gaming 1000G",
+      "rating": "80+ Gold",
+      "wattage": "1000W",
+      "modular": "full",
+      "price": "$169.99"
+    },
+    {
+      "id": "4",
+      "type": "ATX",
+      "name": "Cooler Master MWE GOLD 750 V2 FULL MODULAR",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$171.00"
+    },
+    {
+      "id": "5",
+      "type": "ATX",
+      "name": "Cooler Master MWE Gold 850 - V2",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$119.99"
+    },
+    {
+      "id": "6",
+      "type": "ATX",
+      "name": "Cooler Master V650 V2",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$135.00"
+    },
+    {
+      "id": "7",
+      "type": "SFX",
+      "name": "Cooler Master V750 SFX GOLD",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$139.99"
+    },
+    {
+      "id": "8",
+      "type": "ATX",
+      "name": "Cooler Master V750 V2",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$159.99"
+    },
+    {
+      "id": "9",
+      "type": "SFX",
+      "name": "Cooler Master V850 SFX GOLD",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$139.99"
+    },
+    {
+      "id": "10",
+      "type": "ATX",
+      "name": "Corsair CX650 (2017)",
+      "rating": "80+ Bronze",
+      "wattage": "650W",
+      "modular": "no",
+      "price": "$157.44"
+    },
+    {
+      "id": "11",
+      "type": "ATX",
+      "name": "Corsair CX750M (2021)",
+      "rating": "80+ Bronze",
+      "wattage": "750W",
+      "modular": "semi",
+      "price": "$89.99"
+    },
+    {
+      "id": "12",
+      "type": "ATX",
+      "name": "Corsair CXM",
+      "rating": "80+ Bronze",
+      "wattage": "750W",
+      "modular": "semi",
+      "price": "$170.99"
+    },
+    {
+      "id": "13",
+      "type": "ATX",
+      "name": "Corsair RM650",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$119.99"
+    },
+    {
+      "id": "14",
+      "type": "ATX",
+      "name": "Corsair RM650 (2019)",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$179.99"
+    },
+    {
+      "id": "15",
+      "type": "ATX",
+      "name": "Corsair RM650x (2018)",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$165.99"
+    },
+    {
+      "id": "16",
+      "type": "ATX",
+      "name": "Corsair RM650x (2021)",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$119.99"
+    },
+    {
+      "id": "17",
+      "type": "ATX",
+      "name": "Corsair RM750",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$109.99"
+    },
+    {
+      "id": "18",
+      "type": "ATX",
+      "name": "Corsair RM750e (2022)",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$179.99"
+    },
+    {
+      "id": "19",
+      "type": "ATX",
+      "name": "Corsair RM750e (2023)",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$99.99"
+    },
+    {
+      "id": "20",
+      "type": "ATX",
+      "name": "Corsair RM750e (2021)",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$114.99"
+    },
+    {
+      "id": "21",
+      "type": "ATX",
+      "name": "Corsair RM850",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$114.99"
+    },
+    {
+      "id": "22",
+      "type": "ATX",
+      "name": "Corsair RM850i",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$159.99"
+    },
+    {
+      "id": "23",
+      "type": "ATX",
+      "name": "Corsair RM850x (2018)",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$144.99"
+    },
+    {
+      "id": "24",
+      "type": "ATX",
+      "name": "Corsair RM850x (2021)",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$149.99"
+    },
+    {
+      "id": "25",
+      "type": "ATX",
+      "name": "MSI MPG A650GF",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$106.99"
+    },
+    {
+      "id": "26",
+      "type": "ATX",
+      "name": "MSI MPG A750GF",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$159.07"
+    },
+    {
+      "id": "27",
+      "type": "ATX",
+      "name": "MSI MPG A850G PCIE5",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$129.99"
+    },
+    {
+      "id": "28",
+      "type": "ATX",
+      "name": "NZXT C650 (2022)",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$129.99"
+    },
+    {
+      "id": "29",
+      "type": "ATX",
+      "name": "NZXT C850 (2022)",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$138.99"
+    },
+    {
+      "id": "30",
+      "type": "ATX",
+      "name": "SeaSonic CORE GM",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "semi",
+      "price": "$144.99"
+    },
+    {
+      "id": "31",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "semi",
+      "price": "$146.99"
+    },
+    {
+      "id": "32",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "semi",
+      "price": "$137.98"
+    },
+    {
+      "id": "33",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "semi",
+      "price": "$127.98"
+    },
+    {
+      "id": "34",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS Gold",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "semi",
+      "price": "$127.98"
+    },
+    {
+      "id": "35",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS Gold",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "semi",
+      "price": "$137.98"
+    },
+    {
+      "id": "36",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS GX",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$166.98"
+    },
+    {
+      "id": "37",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS GX",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$144.98"
+    },
+    {
+      "id": "38",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS GX",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$166.48"
+    },
+    {
+      "id": "39",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS Plus 650 Gold",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$153.99"
+    },
+    {
+      "id": "40",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS Plus 750 Gold",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$139.99"
+    },
+    {
+      "id": "41",
+      "type": "ATX",
+      "name": "SeaSonic FOCUS Plus 850 Gold",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$159.99"
+    },
+    {
+      "id": "42",
+      "type": "SFX",
+      "name": "SeaSonic FOCUS SGX (2021)",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$169.99"
+    },
+    {
+      "id": "43",
+      "type": "ATX",
+      "name": "SeaSonic PRIME",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$166.98"
+    },
+    {
+      "id": "44",
+      "type": "ATX",
+      "name": "SeaSonic PRIME Ultra Gold 750",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$158.99"
+    },
+    {
+      "id": "45",
+      "type": "ATX",
+      "name": "SeaSonic S12III",
+      "rating": "80+ Bronze",
+      "wattage": "650W",
+      "modular": "no",
+      "price": "$98.81"
+    },
+    {
+      "id": "46",
+      "type": "ATX",
+      "name": "Thermaltake Smart BM2",
+      "rating": "80+ Bronze",
+      "wattage": "650W",
+      "modular": "semi",
+      "price": "$114.27"
+    },
+    {
+      "id": "47",
+      "type": "ATX",
+      "name": "Thermaltake Smart BM2",
+      "rating": "80+ Bronze",
+      "wattage": "750W",
+      "modular": "semi",
+      "price": "$104.10"
+    },
+    {
+      "id": "48",
+      "type": "ATX",
+      "name": "Thermaltake Smart BX1",
+      "rating": "80+ Bronze",
+      "wattage": "750W",
+      "modular": "no",
+      "price": "$108.86"
+    },
+    {
+      "id": "49",
+      "type": "ATX",
+      "name": "Thermaltake Smart Pro RGB",
+      "rating": "80+ Bronze",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$119.99"
+    },
+    {
+      "id": "50",
+      "type": "ATX",
+      "name": "Thermaltake Smart Pro RGB",
+      "rating": "80+ Bronze",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$108.70"
+    },
+    {
+      "id": "51",
+      "type": "ATX",
+      "name": "Thermaltake TP-750M",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "semi",
+      "price": "$101.99"
+    },
+    {
+      "id": "52",
+      "type": "ATX",
+      "name": "Thermaltake Toughpower",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "semi",
+      "price": "$101.99"
+    },
+    {
+      "id": "53",
+      "type": "ATX",
+      "name": "Thermaltake Toughpower GF1 ARGB",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$114.99"
+    },
+    {
+      "id": "54",
+      "type": "ATX",
+      "name": "Thermaltake Toughpower GF1 PE",
+      "rating": "80+ Gold",
+      "wattage": "650W",
+      "modular": "full",
+      "price": "$159.13"
+    },
+    {
+      "id": "55",
+      "type": "ATX",
+      "name": "Thermaltake Toughpower GF1 PE",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$139.98"
+    },
+    {
+      "id": "56",
+      "type": "ATX",
+      "name": "Thermaltake Toughpower GF1 PE",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$149.99"
+    },
+    {
+      "id": "57",
+      "type": "ATX",
+      "name": "Thermaltake Toughpower Grand RGB",
+      "rating": "80+ Gold",
+      "wattage": "850W",
+      "modular": "full",
+      "price": "$148.99"
+    },
+    {
+      "id": "58",
+      "type": "ATX",
+      "name": "Thermaltake Toughpower Grand RGB",
+      "rating": "80+ Gold",
+      "wattage": "750W",
+      "modular": "full",
+      "price": "$131.99"
+    }
+  ]
+}
