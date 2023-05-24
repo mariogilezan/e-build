@@ -3,205 +3,205 @@
     {
       "id": "1",
       "name": "Intel Celeron G6900",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$77.98"
     },
     {
       "id": "2",
       "name": "Intel Core i3-12100",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$114.99"
     },
     {
       "id": "3",
       "name": "Intel Core i3-12100F",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$89.99"
     },
     {
       "id": "4",
       "name": "Intel Core i3-13100",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$99.99"
     },
     {
       "id": "5",
       "name": "Intel Core i3-13100F",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$110.99"
     },
     {
       "id": "6",
       "name": "Intel Core i5-12400",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$174.99"
     },
     {
       "id": "7",
       "name": "Intel Core i5-12400F",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$149.99"
     },
     {
       "id": "8",
       "name": "Intel Core i5-12500",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$232.99"
     },
     {
       "id": "9",
       "name": "Intel Core i5-12600",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$258.00"
     },
     {
       "id": "10",
       "name": "Intel Core i5-12600K",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$226.87"
     },
     {
       "id": "11",
       "name": "Intel Core i5-12600KF",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$219.94"
     },
     {
       "id": "12",
       "name": "Intel Core i5-13400",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$199.99"
     },
     {
       "id": "13",
       "name": "Intel Core i5-13400F",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$164.99"
     },
     {
       "id": "14",
       "name": "Intel Core i5-13500",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$209.99"
     },
     {
       "id": "15",
       "name": "Intel Core i5-13600",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$239.99"
     },
     {
       "id": "16",
       "name": "Intel Core i5-13600K",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$309.99"
     },
     {
       "id": "17",
       "name": "Intel Core i5-13600KF",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$259.99"
     },
     {
       "id": "18",
       "name": "Intel Core i7-12700",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$325.86"
     },
     {
       "id": "19",
       "name": "Intel Core i7-12700F",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$284.99"
     },
     {
       "id": "20",
       "name": "Intel Core i7-12700KF",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$278.00"
     },
     {
       "id": "21",
       "name": "Intel Core i7-13700",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$349.99"
     },
     {
       "id": "22",
       "name": "Intel Core i7-13700F",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$329.99"
     },
     {
       "id": "23",
       "name": "Intel Core i7-13700K",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$409.99"
     },
     {
       "id": "24",
       "name": "Intel Core i7-13700KF",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$390.98"
     },
     {
       "id": "25",
       "name": "Intel Core i9-12900",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$479.99"
     },
     {
       "id": "26",
       "name": "Intel Core i9-12900F",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$449.99"
     },
     {
       "id": "27",
       "name": "Intel Core i9-12900K",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$399.00"
     },
     {
       "id": "28",
       "name": "Intel Core i9-12900KF",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$391.00"
     },
     {
       "id": "29",
       "name": "Intel Core i9-12900KS",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$457.77"
     },
     {
       "id": "30",
       "name": "Intel Core i9-13900",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$549.99"
     },
     {
       "id": "31",
       "name": "Intel Core i9-13900F",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$529.99"
     },
     {
       "id": "32",
       "name": "Intel Core i9-13900K",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$565.99"
     },
     {
       "id": "33",
       "name": "Intel Core i9-13900KF",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$529.99"
     },
     {
       "id": "34",
       "name": "Intel Core i9-13900KS",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "price": "$1187.50"
     },
     {
@@ -719,391 +719,391 @@
   "motherboard": [
     {
       "id": "1",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "ASRock B660 Steel Legend",
       "price": "$159.99"
     },
     {
       "id": "2",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "ASRock B760M PG SONIC WIFI",
       "price": "$189.99"
     },
     {
       "id": "3",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "ASRock B760M Steel Legend WIFI",
       "price": "$169.99"
     },
     {
       "id": "4",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "ASRock Z690 PG Riptide",
       "price": "$168.99"
     },
     {
       "id": "5",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "ASRock Z690 Steel Legend",
       "price": "$139.99"
     },
     {
       "id": "6",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "ASRock Z790 PG LIGHTNING",
       "price": "$179.99"
     },
     {
       "id": "7",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus PRIME B660-PLUS D4",
       "price": "$178.04"
     },
     {
       "id": "8",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus PRIME B660M-A WIFI D4",
       "price": "$162.13"
     },
     {
       "id": "9",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus PRIME Z690-A",
       "price": "$234.99"
     },
     {
       "id": "10",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus PRIME Z690-P D4",
       "price": "$199.99"
     },
     {
       "id": "11",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus PRIME Z690-P WIFI",
       "price": "$219.99"
     },
     {
-      "id": "11",
-      "socket": "lga1700",
+      "id": "1112",
+      "socket": "LGA1700",
       "name": "Asus PRIME Z690-P WIFI D4",
       "price": "$239.99"
     },
     {
       "id": "12",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus ProArt B660-CREATOR D4",
       "price": "$210.99"
     },
     {
       "id": "13",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus ProArt B760-CREATOR D4",
       "price": "$220.99"
     },
     {
       "id": "14",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus ROG STRIX B660-I GAMING WIFI",
       "price": "$233.61"
     },
     {
       "id": "15",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus ROG STRIX B760-I GAMING WIFI",
       "price": "$218.11"
     },
     {
       "id": "16",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus ROG STRIX Z690-A GAMING WIFI D4",
       "price": "$308.95"
     },
     {
       "id": "17",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus ROG STRIX Z690-E GAMING WIFI",
       "price": "$299.99"
     },
     {
       "id": "18",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus ROG STRIX Z690-G GAMING WIFI",
       "price": "$299.99"
     },
     {
       "id": "19",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus ROG STRIX Z690-I GAMING WIFI",
       "price": "$343.35"
     },
     {
       "id": "20",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus ROG STRIX Z790-A GAMING WIFI",
       "price": "$321.99"
     },
     {
       "id": "21",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus TUF GAMING B660-PLUS WIFI D4",
       "price": "$230.14"
     },
     {
       "id": "22",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus TUF GAMING B660M-PLUS WIFI D4",
       "price": "$179.99"
     },
     {
       "id": "23",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus TUF GAMING B760M-PLUS WIFI D4",
       "price": "$189.99"
     },
     {
       "id": "24",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus TUF GAMING Z690-PLUS D4",
       "price": "$298.20"
     },
     {
       "id": "25",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus TUF GAMING Z690-PLUS WIFI",
       "price": "$242.20"
     },
     {
       "id": "26",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus TUF GAMING Z690-PLUS WIFI D4",
       "price": "$229.00"
     },
     {
       "id": "27",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus TUF GAMING Z790-PLUS WIFI",
       "price": "$259.99"
     },
     {
       "id": "28",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Asus TUF GAMING Z790-PLUS WIFI D4",
       "price": "$240.99"
     },
     {
       "id": "29",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte B600 DS3H AX DDR4",
       "price": "$167.95"
     },
     {
       "id": "30",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte B600 GAMING X AX DDR4",
       "price": "$349.00"
     },
     {
       "id": "31",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte B600 GAMING X DDR4",
       "price": "$336.59"
     },
     {
       "id": "32",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte B600M DS3H DDR4",
       "price": "$144.25"
     },
     {
       "id": "33",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte Z690 AERO G",
       "price": "$259.99"
     },
     {
       "id": "34",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte Z690 AORUS ELITE DDR4",
       "price": "$269.99"
     },
     {
       "id": "35",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte Z690 AORUS ULTRA",
       "price": "$289.99"
     },
     {
       "id": "36",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte Z690 UD DDR4",
       "price": "$207.51"
     },
     {
       "id": "37",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte Z790 AORUS ELITE AX",
       "price": "$254.99"
     },
     {
       "id": "38",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "Gigabyte Z790 GAMING X AX",
       "price": "$234.99"
     },
     {
       "id": "39",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MAG B600 TOMAHAWK WIFI DDR4",
       "price": "$189.99"
     },
     {
       "id": "40",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MAG B600M MORTAR DDR4",
       "price": "$227.21"
     },
     {
       "id": "41",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MAG Z690 TOMAHAWK WIFI",
       "price": "$239.99"
     },
     {
       "id": "42",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MAG Z690 TOMAHAWK WIFI DDR4",
       "price": "$239.99"
     },
     {
       "id": "43",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MAG Z790 TOMAHAWK WIFI",
       "price": "$259.99"
     },
     {
       "id": "44",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MEG Z690 ACE",
       "price": "$403.31"
     },
     {
       "id": "45",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MPG Z690 CARBON WIFI",
       "price": "$304.99"
     },
     {
       "id": "46",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MPG Z690 EDGE WIFI",
       "price": "$213.00"
     },
     {
       "id": "47",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MPG Z690 EDGE WIFI DDR4",
       "price": "$269.99"
     },
     {
       "id": "48",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MPG Z690 FORCE WIFI",
       "price": "$269.99"
     },
     {
       "id": "49",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MPG Z790 EDGE WIFI",
       "price": "$346.48"
     },
     {
       "id": "50",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MPG Z790 EDGE WIFI DDR4",
       "price": "$324.99"
     },
     {
       "id": "51",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI MPG Z790I EDGE WIFI",
       "price": "$340.99"
     },
     {
       "id": "52",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI PRO B660-A DDR4",
       "price": "$149.99"
     },
     {
       "id": "53",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI PRO B660M-A WIFI DDR4",
       "price": "$149.99"
     },
     {
       "id": "54",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI PRO B760-P WIFI DDR4",
       "price": "$159.94"
     },
     {
       "id": "55",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI PRO B760M-A WIFI DDR4",
       "price": "$169.99"
     },
     {
       "id": "56",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI PRO Z690-A",
       "price": "$365.00"
     },
     {
       "id": "57",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI PRO Z690-A WIFI DDR4",
       "price": "$224.83"
     },
     {
       "id": "58",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI PRO Z790-A WIFI",
       "price": "$239.99"
     },
     {
       "id": "59",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI PRO Z790-P WIFI",
       "price": "$199.99"
     },
     {
       "id": "60",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "MSI PRO Z790-P WIFI DDR4",
       "price": "$179.99"
     },
     {
       "id": "61",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "NZXT N5 Z690",
       "price": "$239.99"
     },
     {
       "id": "62",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "NZXT N7 Z790",
       "price": "$299.99"
     },
     {
       "id": "63",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "NZXT N7-Z69XT-B1",
       "price": "$299.73"
     },
     {
       "id": "64",
-      "socket": "lga1700",
+      "socket": "LGA1700",
       "name": "NZXT N7-Z69XT-W1",
       "price": "$360.11"
     },
@@ -1620,7 +1620,7 @@
       "price": "$63.99"
     },
     {
-      "id": "16",
+      "id": "1617",
       "type": "DDR4",
       "name": "G.Skill Ripjaws V 16 GB",
       "price": "$72.99"
@@ -1896,7 +1896,7 @@
       "price": "$174.29"
     },
     {
-      "id": "60",
+      "id": "601",
       "type": "DDR5",
       "name": "Patriot Viper Black 16 GB DDR5",
       "price": "$64.98"
