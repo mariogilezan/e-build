@@ -1,7 +1,11 @@
+import data from '../../data/components.json';
+
+import ComponentsLayout from '@/components/ComponentsLayout';
+
 export default function StoragePage() {
   return (
-    <div>
-      <h1>Storage</h1>
-    </div>
+    <>
+      <ComponentsLayout componentList={data.storage} title='Storage' />
+    </>
   );
 }

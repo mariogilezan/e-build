@@ -1,7 +1,11 @@
+import data from '../../data/components.json';
+
+import ComponentsLayout from '@/components/ComponentsLayout';
+
 export default function PsuPage() {
   return (
-    <div>
-      <h1>Psu</h1>
-    </div>
+    <>
+      <ComponentsLayout componentList={data.psu} title='PSU' />
+    </>
   );
 }

@@ -1,7 +1,11 @@
+import data from '../../data/components.json';
+
+import ComponentsLayout from '@/components/ComponentsLayout';
+
 export default function MotherboardPage() {
   return (
-    <div>
-      <h1>Motherboard</h1>
-    </div>
+    <>
+      <ComponentsLayout componentList={data.motherboard} title='Motherboard' />
+    </>
   );
 }

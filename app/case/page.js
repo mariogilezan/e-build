@@ -1,7 +1,11 @@
+import data from '../../data/components.json';
+
+import ComponentsLayout from '@/components/ComponentsLayout';
+
 export default function CasePage() {
   return (
-    <div>
-      <h1>Case</h1>
-    </div>
+    <>
+      <ComponentsLayout componentList={data.case} title='Case' />
+    </>
   );
 }

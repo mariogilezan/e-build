@@ -1,7 +1,11 @@
+import data from '../../data/components.json';
+
+import ComponentsLayout from '@/components/ComponentsLayout';
+
 export default function CpuCoolerPage() {
   return (
-    <div>
-      <h1>Cpu Cooler</h1>
-    </div>
+    <>
+      <ComponentsLayout componentList={data.cpuCooler} title='Cpu Cooler' />
+    </>
   );
 }
