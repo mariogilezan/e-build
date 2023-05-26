@@ -1,5 +1,3 @@
-import data from '../../data/components.json';
-
 import ComponentsLayout from '@/components/ComponentsLayout';
 
 export const metadata = {
@@ -9,7 +7,9 @@ export const metadata = {
   },
 };
 
-export default function GpuPage() {
+export default async function GpuPage() {
+  const req = await fetch('http://localhost:3000/api/componentsList');
+  const data = await req.json();
   return (
     <>
       <ComponentsLayout componentList={data.gpu} title='Video Card' />
