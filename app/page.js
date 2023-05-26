@@ -1,20 +1,6 @@
-'use client';
-
-import { componentsListItems } from '@/data/componentListItems';
 import Link from 'next/link';
-import { useState } from 'react';
 
-export default function Home() {
-  const [totalCost, setTotalCost] = useState(0);
-  const [componentData, setComponentData] = useState({});
-
-  const getComponentData = (name, componentData) => {
-    setComponentData((prevData) => ({
-      ...prevData,
-      [name]: componentData,
-    }));
-  };
-
+export default async function Home() {
   return (
     <main className='container mx-auto flex min-h-screen flex-col items-center gap-10 px-4 py-8'>
       <header className='flex flex-col items-center text-center gap-4'>
@@ -27,20 +13,6 @@ export default function Home() {
       </header>
 
       <section className='w-full sm:w-4/5 md:w-3/4 lg:w-3/5 border-2 border-slate-600 p-4 rounded flex flex-col gap-4 text-sm sm:text-base'>
-        {/* {componentsListItems.map((component) => (
-          <div
-            key={component.name}
-            className='grid grid-cols-1 gap-2 items-center'
-          >
-            <div>{component.name}</div>
-            <Link
-              href={`/${component.href}`}
-              className='bg-slate-600 hover:bg-slate-500 text-white p-2 rounded justify-self-start'
-            >
-              Select {component.name}
-            </Link>
-          </div>
-        ))} */}
         {/* CPU */}
         <div className='grid grid-cols-1 gap-2 items-center'>
           <div>CPU</div>
