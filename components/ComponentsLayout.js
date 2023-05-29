@@ -1,11 +1,15 @@
 'use client';
 
+import { setComponent } from '@/store/componentsSlice';
 import Link from 'next/link';
+import { useDispatch } from 'react-redux';
 
-export default function ComponentsLayout({ componentList, title }) {
-  const item = (el) => {
-    console.log(el);
-  };
+export default function ComponentsLayout({
+  componentList,
+  componentName,
+  title,
+}) {
+  const dispatch = useDispatch();
 
   return (
     <section className='container mx-auto min-h-screen flex flex-col gap-10 items-center text-center px-4 py-8'>
@@ -24,12 +28,17 @@ export default function ComponentsLayout({ componentList, title }) {
               {component.name}
             </h5>
             <p className='justify-self-end'>{component.price}</p>
-            <button
+            <Link
+              href='/'
               className='px-2 py-1 bg-slate-600 hover:bg-slate-500 text-white font-semibold justify-self-end rounded-sm'
-              onClick={() => item(component)}
+              onClick={() =>
+                dispatch(
+                  setComponent({ name: componentName, value: component })
+                )
+              }
             >
               Add
-            </button>
+            </Link>
           </li>
         ))}
       </ul>
