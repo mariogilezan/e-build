@@ -12,7 +12,11 @@ export default async function PsuPage() {
   const data = await req.json();
   return (
     <>
-      <ComponentsLayout componentList={data.psu} title='PSU' />
+      <ComponentsLayout
+        componentList={data.psu}
+        componentName='psu'
+        title='PSU'
+      />
     </>
   );
 }

@@ -12,7 +12,11 @@ export default async function MemoryPage() {
   const data = await req.json();
   return (
     <>
-      <ComponentsLayout componentList={data.memory} title='Memory' />
+      <ComponentsLayout
+        componentList={data.memory}
+        componentName='memory'
+        title='Memory'
+      />
     </>
   );
 }

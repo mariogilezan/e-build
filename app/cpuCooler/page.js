@@ -12,7 +12,11 @@ export default async function CpuCoolerPage() {
   const data = await req.json();
   return (
     <>
-      <ComponentsLayout componentList={data.cpuCooler} title='CPU Cooler' />
+      <ComponentsLayout
+        componentList={data.cpuCooler}
+        componentName='cpuCooler'
+        title='CPU Cooler'
+      />
     </>
   );
 }

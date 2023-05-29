@@ -12,7 +12,11 @@ export default async function CpuPage() {
   const data = await req.json();
   return (
     <>
-      <ComponentsLayout componentList={data.cpu} title='CPU' />
+      <ComponentsLayout
+        componentList={data.cpu}
+        componentName='cpu'
+        title='CPU'
+      />
     </>
   );
 }

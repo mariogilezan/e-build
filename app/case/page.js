@@ -12,7 +12,11 @@ export default async function CasePage() {
   const data = await req.json();
   return (
     <>
-      <ComponentsLayout componentList={data.case} title='Case' />
+      <ComponentsLayout
+        componentList={data.case}
+        componentName='case'
+        title='Case'
+      />
     </>
   );
 }

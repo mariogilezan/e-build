@@ -12,7 +12,11 @@ export default async function GpuPage() {
   const data = await req.json();
   return (
     <>
-      <ComponentsLayout componentList={data.gpu} title='Video Card' />
+      <ComponentsLayout
+        componentList={data.gpu}
+        componentName='gpu'
+        title='Video Card'
+      />
     </>
   );
 }

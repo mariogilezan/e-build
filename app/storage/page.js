@@ -12,7 +12,11 @@ export default async function StoragePage() {
   const data = await req.json();
   return (
     <>
-      <ComponentsLayout componentList={data.storage} title='Storage' />
+      <ComponentsLayout
+        componentList={data.storage}
+        componentName='storage'
+        title='Storage'
+      />
     </>
   );
 }

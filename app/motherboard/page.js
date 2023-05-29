@@ -12,7 +12,11 @@ export default async function MotherboardPage() {
   const data = await req.json();
   return (
     <>
-      <ComponentsLayout componentList={data.motherboard} title='Motherboard' />
+      <ComponentsLayout
+        componentList={data.motherboard}
+        componentName='motherboard'
+        title='Motherboard'
+      />
     </>
   );
 }
