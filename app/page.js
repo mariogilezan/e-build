@@ -1,6 +1,20 @@
-import Link from 'next/link';
+'use client';
 
-export default async function Home() {
+import Link from 'next/link';
+import { useSelector } from 'react-redux';
+
+export default function Home() {
+  const {
+    cpu,
+    cpuCooler,
+    motherboard,
+    memory,
+    storage,
+    gpu,
+    case: caseData,
+    psu,
+  } = useSelector((state) => state);
+
   return (
     <main className='container mx-auto flex min-h-screen flex-col items-center gap-10 px-4 py-8'>
       <header className='flex flex-col items-center text-center gap-4'>
@@ -16,12 +30,26 @@ export default async function Home() {
         {/* CPU */}
         <div className='grid grid-cols-1 gap-2 items-center'>
           <div>CPU</div>
-          <Link
-            href='/cpu'
-            className='bg-slate-600 hover:bg-slate-500 text-white p-2 rounded justify-self-start'
-          >
-            Select CPU
-          </Link>
+          {cpu !== null ? (
+            <div className='flex items-center justify-between gap-4'>
+              <Link
+                href='/cpu'
+                className='truncate font-semibold hover:text-cyan-600 hover:underline'
+              >
+                {cpu.name} - {cpu.price}
+              </Link>
+              <button className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'>
+                &times;
+              </button>
+            </div>
+          ) : (
+            <Link
+              href='/cpu'
+              className='bg-slate-600 hover:bg-slate-500 text-white p-2 rounded justify-self-start'
+            >
+              Select CPU
+            </Link>
+          )}
         </div>
         {/* CPU Cooler */}
         <div className='grid grid-cols-1 gap-2 items-center'>
