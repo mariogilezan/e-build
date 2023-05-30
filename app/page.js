@@ -1,9 +1,11 @@
 'use client';
 
+import { removeComponent } from '@/store/componentsSlice';
 import Link from 'next/link';
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 
 export default function Home() {
+  const dispatch = useDispatch();
   const {
     cpu,
     cpuCooler,
@@ -14,6 +16,10 @@ export default function Home() {
     case: caseData,
     psu,
   } = useSelector((state) => state);
+
+  const handleComponentRemove = (name) => {
+    dispatch(removeComponent({ name }));
+  };
 
   return (
     <main className='container mx-auto flex min-h-screen flex-col items-center gap-10 px-4 py-8'>
@@ -40,7 +46,10 @@ export default function Home() {
               >
                 {cpu.name} - {cpu.price}
               </Link>
-              <button className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'>
+              <button
+                className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'
+                onClick={() => handleComponentRemove('cpu')}
+              >
                 &times;
               </button>
             </div>
@@ -66,7 +75,10 @@ export default function Home() {
               >
                 {cpuCooler.name} - {cpuCooler.price}
               </Link>
-              <button className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'>
+              <button
+                className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'
+                onClick={() => handleComponentRemove('cpuCooler')}
+              >
                 &times;
               </button>
             </div>
@@ -92,7 +104,10 @@ export default function Home() {
               >
                 {motherboard.name} - {motherboard.price}
               </Link>
-              <button className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'>
+              <button
+                className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'
+                onClick={() => handleComponentRemove('motherboard')}
+              >
                 &times;
               </button>
             </div>
@@ -118,7 +133,10 @@ export default function Home() {
               >
                 {memory.name} - {memory.price}
               </Link>
-              <button className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'>
+              <button
+                className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'
+                onClick={() => handleComponentRemove('memory')}
+              >
                 &times;
               </button>
             </div>
@@ -144,7 +162,10 @@ export default function Home() {
               >
                 {storage.name} - {storage.price}
               </Link>
-              <button className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'>
+              <button
+                className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'
+                onClick={() => handleComponentRemove('storage')}
+              >
                 &times;
               </button>
             </div>
@@ -170,7 +191,10 @@ export default function Home() {
               >
                 {`${gpu.name} (${gpu.chipset})`} - {gpu.price}
               </Link>
-              <button className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'>
+              <button
+                className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'
+                onClick={() => handleComponentRemove('gpu')}
+              >
                 &times;
               </button>
             </div>
@@ -196,7 +220,10 @@ export default function Home() {
               >
                 {caseData.name} - {caseData.price}
               </Link>
-              <button className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'>
+              <button
+                className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'
+                onClick={() => handleComponentRemove('case')}
+              >
                 &times;
               </button>
             </div>
@@ -222,7 +249,10 @@ export default function Home() {
               >
                 {`${psu.name} (${psu.wattage})`} - {psu.price}
               </Link>
-              <button className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'>
+              <button
+                className='text-gray-400 hover:text-red-600 font-bold text-lg w-4 h-4 flex items-center justify-center'
+                onClick={() => handleComponentRemove('psu')}
+              >
                 &times;
               </button>
             </div>
