@@ -1,8 +1,8 @@
 'use client';
 
-import { setComponent } from '@/store/componentsSlice';
 import Link from 'next/link';
 import { useDispatch } from 'react-redux';
+import { setComponent } from '@/store/componentsSlice';
 
 export default function ComponentsLayout({
   componentList,
