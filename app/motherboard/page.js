@@ -8,9 +8,7 @@ export const metadata = {
 };
 
 export default async function MotherboardPage() {
-  const req = await fetch('http://127.0.0.1:3000/api/componentsList', {
-    cache: 'no-store',
-  });
+  const req = await fetch('http://127.0.0.1:3000/api/componentsList');
   const data = await req.json();
   return (
     <>
