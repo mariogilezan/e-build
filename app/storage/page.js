@@ -8,7 +8,9 @@ export const metadata = {
 };
 
 export default async function StoragePage() {
-  const req = await fetch('http://127.0.0.1:3000/api/componentsList');
+  const req = await fetch('http://127.0.0.1:3000/api/componentsList', {
+    cache: 'no-store',
+  });
   const data = await req.json();
   return (
     <>
