@@ -8,7 +8,9 @@ export const metadata = {
 };
 
 export default async function PsuPage() {
-  const res = await fetch('http://127.0.0.1:3000/api/componentsList');
+  const res = await fetch('http://127.0.0.1:3000/api/componentsList', {
+    cache: 'force-cache',
+  });
   const data = await res.json();
   return (
     <>
