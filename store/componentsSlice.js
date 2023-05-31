@@ -1,14 +1,17 @@
 const { createSlice } = require('@reduxjs/toolkit');
 
 const initialState = {
-  cpu: null,
-  cpuCooler: null,
-  motherboard: null,
-  memory: null,
-  storage: null,
-  gpu: null,
-  case: null,
-  psu: null,
+  components: {
+    cpu: null,
+    cpuCooler: null,
+    motherboard: null,
+    memory: null,
+    storage: null,
+    gpu: null,
+    case: null,
+    psu: null,
+  },
+  totalPrice: 0,
 };
 
 const componentsSlice = createSlice({
@@ -16,12 +19,14 @@ const componentsSlice = createSlice({
   initialState,
   reducers: {
     setComponent: (state, action) => {
-      const { name, value } = action.payload;
-      state[name] = value;
+      const { name, value, price } = action.payload;
+      state.components[name] = value;
+      state.totalPrice += price;
     },
     removeComponent: (state, action) => {
-      const { name } = action.payload;
-      state[name] = null;
+      const { name, price } = action.payload;
+      state.components[name] = null;
+      state.totalPrice -= price;
     },
   },
 });
