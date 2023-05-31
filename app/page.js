@@ -45,6 +45,7 @@ export default function Home() {
               <Link
                 href='/cpu'
                 className='truncate font-semibold hover:text-cyan-600 hover:underline'
+                onClick={() => handleComponentRemove('cpu', cpu.price)}
               >
                 {cpu.name} - {cpu.price}
               </Link>
@@ -74,6 +75,9 @@ export default function Home() {
               <Link
                 href='/cpuCooler'
                 className='truncate font-semibold hover:text-cyan-600 hover:underline'
+                onClick={() =>
+                  handleComponentRemove('cpuCooler', cpuCooler.price)
+                }
               >
                 {cpuCooler.name} - {cpuCooler.price}
               </Link>
@@ -105,6 +109,9 @@ export default function Home() {
               <Link
                 href='/motherboard'
                 className='truncate font-semibold hover:text-cyan-600 hover:underline'
+                onClick={() =>
+                  handleComponentRemove('motherboard', motherboard.price)
+                }
               >
                 {motherboard.name} - {motherboard.price}
               </Link>
@@ -136,6 +143,7 @@ export default function Home() {
               <Link
                 href='/memory'
                 className='truncate font-semibold hover:text-cyan-600 hover:underline'
+                onClick={() => handleComponentRemove('memory', memory.price)}
               >
                 {memory.name} - {memory.price}
               </Link>
@@ -165,6 +173,7 @@ export default function Home() {
               <Link
                 href='/storage'
                 className='truncate font-semibold hover:text-cyan-600 hover:underline'
+                onClick={() => handleComponentRemove('storage', storage.price)}
               >
                 {storage.name} - {storage.price}
               </Link>
@@ -194,6 +203,7 @@ export default function Home() {
               <Link
                 href='/gpu'
                 className='truncate font-semibold hover:text-cyan-600 hover:underline'
+                onClick={() => handleComponentRemove('gpu', gpu.price)}
               >
                 {`${gpu.name} (${gpu.chipset})`} - {gpu.price}
               </Link>
@@ -223,6 +233,7 @@ export default function Home() {
               <Link
                 href='/case'
                 className='truncate font-semibold hover:text-cyan-600 hover:underline'
+                onClick={() => handleComponentRemove('case', caseData.price)}
               >
                 {caseData.name} - {caseData.price}
               </Link>
@@ -252,6 +263,7 @@ export default function Home() {
               <Link
                 href='/psu'
                 className='truncate font-semibold hover:text-cyan-600 hover:underline'
+                onClick={() => handleComponentRemove('psu', psu.price)}
               >
                 {`${psu.name} (${psu.wattage})`} - {psu.price}
               </Link>
