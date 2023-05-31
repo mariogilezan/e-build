@@ -31,11 +31,19 @@ export default function ComponentsLayout({
             <Link
               href='/'
               className='px-2 py-1 bg-slate-600 hover:bg-slate-500 text-white font-semibold justify-self-end rounded-sm'
-              onClick={() =>
+              onClick={() => {
+                const parsedPrice = Math.round(
+                  parseFloat(component.price.slice(1))
+                );
+
                 dispatch(
-                  setComponent({ name: componentName, value: component })
-                )
-              }
+                  setComponent({
+                    name: componentName,
+                    value: component,
+                    price: parsedPrice,
+                  })
+                );
+              }}
             >
               Add
             </Link>
