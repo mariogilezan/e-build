@@ -1,4 +1,5 @@
 import ComponentsLayout from '@/components/ComponentsLayout';
+import { getLocalData } from '@/lib/localdata';
 
 export const metadata = {
   title: 'EBuild - Video Card',
@@ -8,10 +9,8 @@ export const metadata = {
 };
 
 export default async function GpuPage() {
-  const res = await fetch('http://127.0.0.1:3000/api/componentsList', {
-    cache: 'force-cache',
-  });
-  const data = await res.json();
+  const data = await getLocalData();
+
   return (
     <>
       <ComponentsLayout
